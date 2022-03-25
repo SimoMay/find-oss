@@ -380,6 +380,13 @@ Alternatives to: [UiPath](https://www.uipath.com/)
 | :-------------------------------- | ----------------------------------------------------------------------------------------------------------------: | :------ |
 | [RoboCorp](https://robocorp.com/) | [![RoboCorp](https://img.shields.io/github/stars/robocorp/rcc.svg?style=social)](https://github.com/robocorp/rcc) | Yes     |  
 
+## SQL Editor
+Alternatives to: [TablePlus](https://www.tableplus.io/)
+
+| Open source                                         |                                                                                                                                                               Stars | Private |
+| :-------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------ |
+| [Beekeeper Studio](https://www.beekeeperstudio.io/) | [![Beekeeper Studio](https://img.shields.io/github/stars/beekeeper-studio/beekeeper-studio.svg?style=social)](https://github.com/beekeeper-studio/beekeeper-studio) | Yes     |  
+
 ## Scheduling
 Alternatives to: [Calendly](https://calendly.com/)
 
