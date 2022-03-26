@@ -105,14 +105,11 @@ Alternatives to: [Segment](https://segment.com/)
 ## Customer Engagement
 Alternatives to: [Intercom](https://www.intercom.com/), [Zendesk](https://www.zendesk.com/)
 
-|                           Open source | Stars                                                                                                                                     | Private |
-| ------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------- | :-----: |
-|        [Chaskiq](https://chaskiq.io/) | [![Chaskiq](https://img.shields.io/github/stars/chaskiq/chaskiq.svg?style=social)](https://github.com/chaskiq/chaskiq)                    |   Yes   |
-| [Chatwoot](https://www.chatwoot.com/) | [![Chatwoot](https://img.shields.io/github/stars/chatwoot/chatwoot.svg?style=social)](https://github.com/chatwoot/chatwoot)               |   Yes   |
-|            [Helpy](https://helpy.io/) | [![Helpy](https://img.shields.io/github/stars/helpyio/helpy.svg?style=social)](https://github.com/helpyio/helpy)                          |   Yes   |
-|    [Papercups](https://papercups.io/) | [![Papercups](https://img.shields.io/github/stars/papercups-io/papercups.svg?style=social)](https://github.com/papercups-io/papercups)    |   Yes   |
-|  [UVdesk](https://www.uvdesk.com/en/) | [![UVdesk](https://img.shields.io/github/stars/uvdesk/community-skeleton.svg?style=social)](https://github.com/uvdesk/community-skeleton) |   Yes   |
-|       [Zammad](https://zammad.com/en) | [![Zammad](https://img.shields.io/github/stars/zammad/zammad.svg?style=social)](https://github.com/zammad/zammad)                         |   Yes   |  
+|                           Open source | Stars                                                                                                                                  | Private |
+| ------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------- | :-----: |
+|        [Chaskiq](https://chaskiq.io/) | [![Chaskiq](https://img.shields.io/github/stars/chaskiq/chaskiq.svg?style=social)](https://github.com/chaskiq/chaskiq)                 |   Yes   |
+| [Chatwoot](https://www.chatwoot.com/) | [![Chatwoot](https://img.shields.io/github/stars/chatwoot/chatwoot.svg?style=social)](https://github.com/chatwoot/chatwoot)            |   Yes   |
+|    [Papercups](https://papercups.io/) | [![Papercups](https://img.shields.io/github/stars/papercups-io/papercups.svg?style=social)](https://github.com/papercups-io/papercups) |   Yes   |  
 
 ## Cybersecurity
 Alternatives to: [AWS Config](https://aws.amazon.com/config/), [AWS GuardDuty](https://aws.amazon.com/guardduty/), [GCP Cloud Asset Inventory](https://cloud.google.com/asset-inventory), [GreyNoise](https://www.greynoise.io/), [OpenVPN](https://openvpn.net/), [OpenVPN Access Server](https://openvpn.net/access-server/), [Tailscale](https://tailscale.com/), [Tenable Nessus](https://www.tenable.com/products/nessus)
@@ -270,7 +267,10 @@ Alternatives to: [Zendesk](https://www.zendesk.com/)
 
 |                          Open source | Stars                                                                                                                                         | Private |
 | -----------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------- | :-----: |
-| [Peppermint](https://peppermint.sh/) | [![Peppermint](https://img.shields.io/github/stars/Peppermint-Lab/peppermint.svg?style=social)](https://github.com/Peppermint-Lab/peppermint) |   Yes   |  
+|           [Helpy](https://helpy.io/) | [![Helpy](https://img.shields.io/github/stars/helpyio/helpy.svg?style=social)](https://github.com/helpyio/helpy)                              |   Yes   |
+| [Peppermint](https://peppermint.sh/) | [![Peppermint](https://img.shields.io/github/stars/Peppermint-Lab/peppermint.svg?style=social)](https://github.com/Peppermint-Lab/peppermint) |   Yes   |
+| [UVdesk](https://www.uvdesk.com/en/) | [![UVdesk](https://img.shields.io/github/stars/uvdesk/community-skeleton.svg?style=social)](https://github.com/uvdesk/community-skeleton)     |   Yes   |
+|      [Zammad](https://zammad.com/en) | [![Zammad](https://img.shields.io/github/stars/zammad/zammad.svg?style=social)](https://github.com/zammad/zammad)                             |   Yes   |  
 
 ## Internal Tools
 Alternatives to: [Retool](https://retool.com/)
