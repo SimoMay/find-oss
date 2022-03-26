@@ -73,9 +73,12 @@ Alternatives to: [BitBucket](https://bitbucket.org/), [GitHub](https://github.co
 
 |                         Open source | Stars                                                                                                                     | Private |
 | ----------------------------------: | :------------------------------------------------------------------------------------------------------------------------ | :-----: |
+|   [Codeberg](https://codeberg.org/) | [Repo](https://codeberg.org/Codeberg/Community)                                                                           |    -    |
 | [GitLab](https://about.gitlab.com/) | [![GitLab](https://img.shields.io/github/stars/gitlabhq/gitlabhq.svg?style=social)](https://github.com/gitlabhq/gitlabhq) |   Yes   |
 |          [Gitea](https://gitea.io/) | [![Gitea](https://img.shields.io/github/stars/go-gitea/gitea.svg?style=social)](https://github.com/go-gitea/gitea)        |    -    |
-|            [Gogs](https://gogs.io/) | [![Gogs](https://img.shields.io/github/stars/gogs/gogs.svg?style=social)](https://github.com/gogs/gogs)                   |    -    |  
+|            [Gogs](https://gogs.io/) | [![Gogs](https://img.shields.io/github/stars/gogs/gogs.svg?style=social)](https://github.com/gogs/gogs)                   |    -    |
+|   [OneDev](https://code.onedev.io/) | [![OneDev](https://img.shields.io/github/stars/theonedev/onedev.svg?style=social)](https://github.com/theonedev/onedev)   |    -    |
+|  [Pagure](https://pagure.io/pagure) | [![Pagure](https://img.shields.io/github/stars/Pagure/pagure.svg?style=social)](https://github.com/Pagure/pagure)         |    -    |  
 
 ## Communication
 Alternatives to: [Twilio](https://www.twilio.com/)
@@ -368,7 +371,7 @@ Alternatives to
   
 
 ## Platform as a Service (PaaS)
-Alternatives to: [Heroku](https://www.heroku.com/)
+Alternatives to: [Heroku](https://www.heroku.com/), [Render](https://render.com/)
 
 |                            Open source | Stars                                                                                                                                          | Private |
 | -------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------- | :-----: |
@@ -477,13 +480,16 @@ Alternatives to: [YouTube](https://www.youtube.com/)
 ## Website analytics
 Alternatives to: [Google Analytics](https://analytics.google.com/)
 
-|                                 Open source | Stars                                                                                                                            | Private |
-| ------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------- | :-----: |
-|            [Fathom](https://usefathom.com/) | [![Fathom](https://img.shields.io/github/stars/usefathom/fathom.svg?style=social)](https://github.com/usefathom/fathom)          |   Yes   |
-| [GoatCounter](https://www.goatcounter.com/) | [![GoatCounter](https://img.shields.io/github/stars/arp242/goatcounter.svg?style=social)](https://github.com/arp242/goatcounter) |   Yes   |
-|               [Matomo](https://matomo.org/) | [![Matomo](https://img.shields.io/github/stars/matomo-org/matomo.svg?style=social)](https://github.com/matomo-org/matomo)        |   Yes   |
-|          [Plausible](https://plausible.io/) | [![Plausible](https://img.shields.io/github/stars/plausible/analytics.svg?style=social)](https://github.com/plausible/analytics) |   Yes   |
-|                  [Umami](https://umami.is/) | [![Umami](https://img.shields.io/github/stars/mikecao/umami.svg?style=social)](https://github.com/mikecao/umami)                 |   Yes   |  
+|                                             Open source | Stars                                                                                                                                                                         | Private |
+| ------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----: |
+|                 [Ackee](https://ackee.electerious.com/) | [![Ackee](https://img.shields.io/github/stars/electerious/Ackee.svg?style=social)](https://github.com/electerious/Ackee)                                                      |    -    |
+|                            [Countly](https://count.ly/) | [![Countly](https://img.shields.io/github/stars/countly/countly-server.svg?style=social)](https://github.com/countly/countly-server)                                          |   Yes   |
+|                        [Fathom](https://usefathom.com/) | [![Fathom](https://img.shields.io/github/stars/usefathom/fathom.svg?style=social)](https://github.com/usefathom/fathom)                                                       |   Yes   |
+|             [GoatCounter](https://www.goatcounter.com/) | [![GoatCounter](https://img.shields.io/github/stars/arp242/goatcounter.svg?style=social)](https://github.com/arp242/goatcounter)                                              |   Yes   |
+|                           [Matomo](https://matomo.org/) | [![Matomo](https://img.shields.io/github/stars/matomo-org/matomo.svg?style=social)](https://github.com/matomo-org/matomo)                                                     |   Yes   |
+| [Open Web Analytics](https://www.openwebanalytics.com/) | [![Open Web Analytics](https://img.shields.io/github/stars/Open-Web-Analytics/Open-Web-Analytics.svg?style=social)](https://github.com/Open-Web-Analytics/Open-Web-Analytics) |    -    |
+|                      [Plausible](https://plausible.io/) | [![Plausible](https://img.shields.io/github/stars/plausible/analytics.svg?style=social)](https://github.com/plausible/analytics)                                              |   Yes   |
+|                              [Umami](https://umami.is/) | [![Umami](https://img.shields.io/github/stars/mikecao/umami.svg?style=social)](https://github.com/mikecao/umami)                                                              |   Yes   |  
 
 ## Workflow automation
 Alternatives to: [Integromat](https://www.integromat.com/), [Zapier](https://zapier.com/)
