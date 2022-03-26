@@ -71,18 +71,14 @@ Alternatives to: [Amazon S3](https://aws.amazon.com/s3/)
 ## Code collaboration tools
 Alternatives to: [BitBucket](https://bitbucket.org/), [GitHub](https://github.com/)
 
-|                                               Open source | Stars                                                                                                                                         | Private |
-| --------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------- | :-----: |
-|                         [Codeberg](https://codeberg.org/) | [Repo](https://codeberg.org/Codeberg/Community)                                                                                               |    -    |
-| [Collabora Online](https://www.collaboraoffice.com/code/) | [![Collabora Online](https://img.shields.io/github/stars/CollaboraOnline/online.svg?style=social)](https://github.com/CollaboraOnline/online) |   Yes   |
-|                          [CryptPad](https://cryptpad.fr/) | [![CryptPad](https://img.shields.io/github/stars/xwiki-labs/cryptpad.svg?style=social)](https://github.com/xwiki-labs/cryptpad)               |   Yes   |
-|                       [GitLab](https://about.gitlab.com/) | [![GitLab](https://img.shields.io/github/stars/gitlabhq/gitlabhq.svg?style=social)](https://github.com/gitlabhq/gitlabhq)                     |   Yes   |
-|                                [Gitea](https://gitea.io/) | [![Gitea](https://img.shields.io/github/stars/go-gitea/gitea.svg?style=social)](https://github.com/go-gitea/gitea)                            |    -    |
-|                                  [Gogs](https://gogs.io/) | [![Gogs](https://img.shields.io/github/stars/gogs/gogs.svg?style=social)](https://github.com/gogs/gogs)                                       |    -    |
-|                         [HedgeDoc](https://hedgedoc.org/) | [![HedgeDoc](https://img.shields.io/github/stars/hedgedoc/hedgedoc.svg?style=social)](https://github.com/hedgedoc/hedgedoc)                   |    -    |
-|                         [OneDev](https://code.onedev.io/) | [![OneDev](https://img.shields.io/github/stars/theonedev/onedev.svg?style=social)](https://github.com/theonedev/onedev)                       |    -    |
-|                 [OnlyOffice](https://www.onlyoffice.com/) | [![OnlyOffice](https://img.shields.io/github/stars/ONLYOFFICE/DocumentServer.svg?style=social)](https://github.com/ONLYOFFICE/DocumentServer) |   Yes   |
-|                        [Pagure](https://pagure.io/pagure) | [![Pagure](https://img.shields.io/github/stars/Pagure/pagure.svg?style=social)](https://github.com/Pagure/pagure)                             |    -    |  
+|                         Open source | Stars                                                                                                                     | Private |
+| ----------------------------------: | :------------------------------------------------------------------------------------------------------------------------ | :-----: |
+|   [Codeberg](https://codeberg.org/) | [Repo](https://codeberg.org/Codeberg/Community)                                                                           |    -    |
+| [GitLab](https://about.gitlab.com/) | [![GitLab](https://img.shields.io/github/stars/gitlabhq/gitlabhq.svg?style=social)](https://github.com/gitlabhq/gitlabhq) |   Yes   |
+|          [Gitea](https://gitea.io/) | [![Gitea](https://img.shields.io/github/stars/go-gitea/gitea.svg?style=social)](https://github.com/go-gitea/gitea)        |    -    |
+|            [Gogs](https://gogs.io/) | [![Gogs](https://img.shields.io/github/stars/gogs/gogs.svg?style=social)](https://github.com/gogs/gogs)                   |    -    |
+|   [OneDev](https://code.onedev.io/) | [![OneDev](https://img.shields.io/github/stars/theonedev/onedev.svg?style=social)](https://github.com/theonedev/onedev)   |    -    |
+|  [Pagure](https://pagure.io/pagure) | [![Pagure](https://img.shields.io/github/stars/Pagure/pagure.svg?style=social)](https://github.com/Pagure/pagure)         |    -    |  
 
 ## Communication
 Alternatives to: [Twilio](https://www.twilio.com/)
@@ -111,6 +107,16 @@ Alternatives to: [Intercom](https://www.intercom.com/), [Zendesk](https://www.ze
 |  [UVdesk](https://www.uvdesk.com/en/) | [![UVdesk](https://img.shields.io/github/stars/uvdesk/community-skeleton.svg?style=social)](https://github.com/uvdesk/community-skeleton) |   Yes   |
 |       [Zammad](https://zammad.com/en) | [![Zammad](https://img.shields.io/github/stars/zammad/zammad.svg?style=social)](https://github.com/zammad/zammad)                         |   Yes   |  
 
+## Customer feedback management
+Alternatives to: [Canny](https://canny.io/)
+
+|                                  Open source | Stars                                                                                                                                 | Private |
+| -------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------ | :-----: |
+|  [Astuto](https://github.com/riggraz/astuto) | [![Astuto](https://img.shields.io/github/stars/riggraz/astuto.svg?style=social)](https://github.com/riggraz/astuto)                   |    -    |
+|        [ClearFlask](https://clearflask.com/) | [![ClearFlask](https://img.shields.io/github/stars/clearflask/clearflask.svg?style=social)](https://github.com/clearflask/clearflask) |   Yes   |
+|                   [Fider](https://fider.io/) | [![Fider](https://img.shields.io/github/stars/getfider/fider.svg?style=social)](https://github.com/getfider/fider)                    |   Yes   |
+| [LogChimp](https://logchimp.codecarrot.net/) | [![LogChimp](https://img.shields.io/github/stars/logchimp/logchimp.svg?style=social)](https://github.com/logchimp/logchimp)           |    -    |  
+
 ## Cybersecurity
 Alternatives to: [AWS Config](https://aws.amazon.com/config/), [AWS GuardDuty](https://aws.amazon.com/guardduty/), [GCP Cloud Asset Inventory](https://cloud.google.com/asset-inventory), [GreyNoise](https://www.greynoise.io/), [OpenVPN](https://openvpn.net/), [OpenVPN Access Server](https://openvpn.net/access-server/), [Tailscale](https://tailscale.com/), [Tenable Nessus](https://www.tenable.com/products/nessus)
 
@@ -133,10 +139,11 @@ Alternatives to: [Amazon Aurora](https://aws.amazon.com/rds/aurora/), [Firebase 
 ## Design
 Alternatives to: [Figma](https://www.figma.com/)
 
-|                       Open source | Stars                                                                                                                         | Private |
-| --------------------------------: | :---------------------------------------------------------------------------------------------------------------------------- | :-----: |
-| [Modulz](https://www.modulz.app/) | [![Modulz](https://img.shields.io/github/stars/radix-ui/primitives.svg?style=social)](https://github.com/radix-ui/primitives) |   Yes   |
-|     [Penpot](https://penpot.app/) | [![Penpot](https://img.shields.io/github/stars/penpot/penpot.svg?style=social)](https://github.com/penpot/penpot)             |   Yes   |  
+|                       Open source | Stars                                                                                                                                   | Private |
+| --------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------- | :-----: |
+| [Modulz](https://www.modulz.app/) | [![Modulz](https://img.shields.io/github/stars/radix-ui/primitives.svg?style=social)](https://github.com/radix-ui/primitives)           |   Yes   |
+|     [Penpot](https://penpot.app/) | [![Penpot](https://img.shields.io/github/stars/penpot/penpot.svg?style=social)](https://github.com/penpot/penpot)                       |   Yes   |
+| [Quant UX](https://quant-ux.com/) | [![Quant UX](https://img.shields.io/github/stars/KlausSchaefers/quant-ux.svg?style=social)](https://github.com/KlausSchaefers/quant-ux) |    -    |  
 
 ## Desktop Browser
 Alternatives to: [Google Chrome](https://www.google.com/chrome/index.html)
@@ -148,9 +155,13 @@ Alternatives to: [Google Chrome](https://www.google.com/chrome/index.html)
 ## Document editor
 Alternatives to: [Google Docs](https://docs.google.com/)
 
-|                       Open source | Stars                                                                                                                           | Private |
-| --------------------------------: | :------------------------------------------------------------------------------------------------------------------------------ | :-----: |
-| [EtherPad](https://etherpad.org/) | [![EtherPad](https://img.shields.io/github/stars/ether/etherpad-lite.svg?style=social)](https://github.com/ether/etherpad-lite) |    -    |  
+|                                               Open source | Stars                                                                                                                                         | Private |
+| --------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------- | :-----: |
+| [Collabora Online](https://www.collaboraoffice.com/code/) | [![Collabora Online](https://img.shields.io/github/stars/CollaboraOnline/online.svg?style=social)](https://github.com/CollaboraOnline/online) |   Yes   |
+|                          [CryptPad](https://cryptpad.fr/) | [![CryptPad](https://img.shields.io/github/stars/xwiki-labs/cryptpad.svg?style=social)](https://github.com/xwiki-labs/cryptpad)               |   Yes   |
+|                         [EtherPad](https://etherpad.org/) | [![EtherPad](https://img.shields.io/github/stars/ether/etherpad-lite.svg?style=social)](https://github.com/ether/etherpad-lite)               |    -    |
+|                         [HedgeDoc](https://hedgedoc.org/) | [![HedgeDoc](https://img.shields.io/github/stars/hedgedoc/hedgedoc.svg?style=social)](https://github.com/hedgedoc/hedgedoc)                   |    -    |
+|                 [OnlyOffice](https://www.onlyoffice.com/) | [![OnlyOffice](https://img.shields.io/github/stars/ONLYOFFICE/DocumentServer.svg?style=social)](https://github.com/ONLYOFFICE/DocumentServer) |   Yes   |  
 
 ## E-commerce
 Alternatives to: [BigCommerce](https://www.bigcommerce.com/), [Ecwid](https://www.ecwid.com/), [Shogun](https://getshogun.com/), [Shopify](https://www.shopify.com/)
@@ -178,15 +189,16 @@ Alternatives to: [Fivetran](https://fivetran.com/)
 | [Orchest](https://www.orchest.io/) | [![Orchest](https://img.shields.io/github/stars/orchest/orchest.svg?style=social)](https://github.com/orchest/orchest)       |   Yes   |
 | [Prefect](https://www.prefect.io/) | [![Prefect](https://img.shields.io/github/stars/prefecthq/prefect.svg?style=social)](https://github.com/prefecthq/prefect)   |   Yes   |  
 
-## ERP
-Alternatives to: [Microsoft Dynamics](https://dynamics.microsoft.com/), [Oracle Fusion ERP Cloud](https://www.oracle.com/erp), [SAP](https://www.sap.com/), [Salesforce](https://www.salesforce.com/)
+## ERP/CRM
+Alternatives to: [HubSpot](https://www.hubspot.com/), [Microsoft Dynamics](https://dynamics.microsoft.com/), [Oracle Fusion ERP Cloud](https://www.oracle.com/erp), [SAP](https://www.sap.com/), [Salesforce](https://www.salesforce.com/)
 
 |                         Open source | Stars                                                                                                                               | Private |
 | ----------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------- | :-----: |
 | [DoliCloud](https://dolicloud.com/) | [![DoliCloud](https://img.shields.io/github/stars/Dolibarr/dolibarr.svg?style=social)](https://github.com/Dolibarr/dolibarr)        |   Yes   |
 |     [Erpnext](https://erpnext.com/) | [![Erpnext](https://img.shields.io/github/stars/frappe/erpnext.svg?style=social)](https://github.com/frappe/erpnext)                |   Yes   |
 |           [Odoo](https://odoo.com/) | [![Odoo](https://img.shields.io/github/stars/odoo/odoo.svg?style=social)](https://github.com/odoo/odoo)                             |   Yes   |
-|   [SuiteCRM](https://suitecrm.com/) | [![SuiteCRM](https://img.shields.io/github/stars/salesagility/SuiteCRM.svg?style=social)](https://github.com/salesagility/SuiteCRM) |   Yes   |  
+|   [SuiteCRM](https://suitecrm.com/) | [![SuiteCRM](https://img.shields.io/github/stars/salesagility/SuiteCRM.svg?style=social)](https://github.com/salesagility/SuiteCRM) |   Yes   |
+|          [erxes](https://erxes.io/) | [![erxes](https://img.shields.io/github/stars/erxes/erxes.svg?style=social)](https://github.com/erxes/erxes)                        |   Yes   |  
 
 ## Email marketing
 Alternatives to: [Mailchimp](https://mailchimp.com/), [Sendinblue](https://www.sendinblue.com/)
@@ -236,6 +248,14 @@ Alternatives to: [Bloomberg](https://www.bloomberg.com/)
 |                                                                  Open source | Stars                                                                                                                                                                     | Private |
 | ---------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-----: |
 | [Gamestonk Terminal](https://gamestonkterminal.github.io/GamestonkTerminal/) | [![Gamestonk Terminal](https://img.shields.io/github/stars/GamestonkTerminal/GamestonkTerminal.svg?style=social)](https://github.com/GamestonkTerminal/GamestonkTerminal) |   Yes   |  
+
+## Forms and surveys platform
+Alternatives to: [Typeform](https://www.typeform.com/product/)
+
+|                                     Open source | Stars                                                                                                                                                               | Private |
+| ----------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-----: |
+|               [OhMyForm](https://ohmyform.com/) | [![OhMyForm](https://img.shields.io/github/stars/ohmyform/ohmyform.svg?style=social)](https://github.com/ohmyform/ohmyform)                                         |    -    |
+| [Super Easy Forms](https://supereasyforms.com/) | [![Super Easy Forms](https://img.shields.io/github/stars/super-easy-forms/super-easy-forms.svg?style=social)](https://github.com/super-easy-forms/super-easy-forms) |    -    |  
 
 ## Forum Software
 Alternatives to: [Circle](https://circle.so/), [Tribe](https://tribe.so/)
@@ -360,6 +380,7 @@ Alternatives to: [AWS Lookout](https://aws.amazon.com/lookout-for-metrics/), [An
 |                                     Open source | Stars                                                                                                                                                          | Private |
 | ----------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----: |
 |     [Chaos Genius](https://www.chaosgenius.io/) | [![Chaos Genius](https://img.shields.io/github/stars/chaos-genius/chaos_genius.svg?style=social)](https://github.com/chaos-genius/chaos_genius)                |   Yes   |
+|             [GlitchTip](https://glitchtip.com/) | [Repo](https://gitlab.com/glitchtip)                                                                                                                           |    -    |
 |                 [Grafana](https://grafana.com/) | [![Grafana](https://img.shields.io/github/stars/grafana/grafana.svg?style=social)](https://github.com/grafana/grafana)                                         |   Yes   |
 |           [Netdata](https://www.netdata.cloud/) | [![Netdata](https://img.shields.io/github/stars/netdata/netdata.svg?style=social)](https://github.com/netdata/netdata)                                         |   Yes   |
 |                    [Sentry](https://sentry.io/) | [![Sentry](https://img.shields.io/github/stars/getsentry/sentry.svg?style=social)](https://github.com/getsentry/sentry)                                        |   Yes   |
@@ -413,9 +434,20 @@ Alternatives to: [Asana](https://asana.com/), [Jira](https://www.atlassian.com/s
 | ------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------- | :-----: |
 |   [Focalboard](https://www.focalboard.com/) | [![Focalboard](https://img.shields.io/github/stars/mattermost/focalboard.svg?style=social)](https://github.com/mattermost/focalboard)              |   Yes   |
 |           [Kanboard](https://kanboard.org/) | [![Kanboard](https://img.shields.io/github/stars/kanboard/kanboard.svg?style=social)](https://github.com/kanboard/kanboard)                        |    -    |
+|            [Leantime](https://leantime.io/) | [![Leantime](https://img.shields.io/github/stars/leantime/leantime.svg?style=social)](https://github.com/leantime/leantime)                        |    -    |
 | [OpenProject](https://www.openproject.org/) | [![OpenProject](https://img.shields.io/github/stars/opf/openproject.svg?style=social)](https://github.com/opf/openproject)                         |   Yes   |
 |              [Taiga](https://www.taiga.io/) | [![Taiga](https://img.shields.io/github/stars/kaleidos-ventures/taiga-docker.svg?style=social)](https://github.com/kaleidos-ventures/taiga-docker) |   Yes   |
 |           [Wekan](https://wekan.github.io/) | [![Wekan](https://img.shields.io/github/stars/wekan/wekan.svg?style=social)](https://github.com/wekan/wekan)                                       |    -    |  
+
+## Remote connectivity
+Alternatives to: [Teamviewer](https://www.teamviewer.com/)
+
+|                                               Open source | Stars                                                                                                                                           | Private |
+| --------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------- | :-----: |
+|         [Apache Guacamole](https://guacamole.apache.org/) | [![Apache Guacamole](https://img.shields.io/github/stars/apache/guacamole-server.svg?style=social)](https://github.com/apache/guacamole-server) |    -    |
+| [MeshCentral](https://www.meshcommander.com/meshcentral2) | [![MeshCentral](https://img.shields.io/github/stars/Ylianst/MeshCentral.svg?style=social)](https://github.com/Ylianst/MeshCentral)              |    -    |
+|          [Myrtille](https://cedrozor.github.io/myrtille/) | [![Myrtille](https://img.shields.io/github/stars/cedrozor/myrtille.svg?style=social)](https://github.com/cedrozor/myrtille)                     |    -    |
+|                     [Remotely](https://app.remotely.one/) | [![Remotely](https://img.shields.io/github/stars/immense/Remotely.svg?style=social)](https://github.com/immense/Remotely)                       |    -    |  
 
 ## Reverse ETL
 Alternatives to: [Hightouch](https://www.hightouch.io/), [NewRelic](https://newrelic.com/)
@@ -446,6 +478,15 @@ Alternatives to: [Calendly](https://calendly.com/)
 | ---------------------------: | :-------------------------------------------------------------------------------------------------------------------------- | :-----: |
 | [Calendso](https://cal.com/) | [![Calendso](https://img.shields.io/github/stars/calendso/calendso.svg?style=social)](https://github.com/calendso/calendso) |   Yes   |  
 
+## Server control panel
+Alternatives to: [cPanel](https://cpanel.net/)
+
+|                       Open source | Stars                                                                                                                        | Private |
+| --------------------------------: | :--------------------------------------------------------------------------------------------------------------------------- | :-----: |
+|   [Hestia](https://hestiacp.com/) | [![Hestia](https://img.shields.io/github/stars/hestiacp/hestiacp.svg?style=social)](https://github.com/hestiacp/hestiacp)    |    -    |
+|     [Vesta](https://vestacp.com/) | [![Vesta](https://img.shields.io/github/stars/serghey-rodin/vesta.svg?style=social)](https://github.com/serghey-rodin/vesta) |   Yes   |
+| [Webmin](https://www.webmin.com/) | [![Webmin](https://img.shields.io/github/stars/webmin/webmin.svg?style=social)](https://github.com/webmin/webmin)            |    -    |  
+
 ## Session replay software
 Alternatives to: [FullStory](https://www.fullstory.com/), [LogRocket](https://logrocket.com/)
 
@@ -459,6 +500,13 @@ Alternatives to: [Facebook](https://www.facebook.com/)
 |                           Open source | Stars                                                                                                                       | Private |
 | ------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------- | :-----: |
 | [Mastodon](https://joinmastodon.org/) | [![Mastodon](https://img.shields.io/github/stars/mastodon/mastodon.svg?style=social)](https://github.com/mastodon/mastodon) |    -    |  
+
+## Static web deployment
+Alternatives to: [Netlify](https://www.netlify.com/), [Vercel](https://vercel.com/)
+
+|                              Open source | Stars                                                                                                                                           | Private |
+| ---------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------- | :-----: |
+| [StaticDeploy](https://staticdeploy.io/) | [![StaticDeploy](https://img.shields.io/github/stars/staticdeploy/staticdeploy.svg?style=social)](https://github.com/staticdeploy/staticdeploy) |    -    |  
 
 ## Streaming
 Alternatives to: [Twitch](https://www.twitch.tv/)
@@ -476,6 +524,13 @@ Alternatives to: [Kdb+](https://kx.com/developers/)
 |            [QuestDB](https://questdb.io/) | [![QuestDB](https://img.shields.io/github/stars/questdb/questdb.svg?style=social)](https://github.com/questdb/questdb)                 |   Yes   |
 |      [TDengine](https://tdengine.com/?en) | [![TDengine](https://img.shields.io/github/stars/taosdata/TDengine.svg?style=social)](https://github.com/taosdata/TDengine)            |   Yes   |
 | [TimescaleDB](https://www.timescale.com/) | [![TimescaleDB](https://img.shields.io/github/stars/timescale/timescaledb.svg?style=social)](https://github.com/timescale/timescaledb) |   Yes   |  
+
+## Vector graphic design
+Alternatives to: [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)
+
+|                       Open source | Stars                                        | Private |
+| --------------------------------: | :------------------------------------------- | :-----: |
+| [Inkscape](https://inkscape.org/) | [Repo](https://gitlab.com/inkscape/inkscape) |    -    |  
 
 ## Video Conferencing
 Alternatives to: [Agora](https://agora.io/), [Twilio](https://www.twilio.com/), [Zoom](https://zoom.us/)
@@ -518,4 +573,12 @@ Alternatives to: [Integromat](https://www.integromat.com/), [Zapier](https://zap
 |                            [N8N](https://n8n.io/) | [![N8N](https://img.shields.io/github/stars/n8n-io/n8n.svg?style=social)](https://github.com/n8n-io/n8n)                                                  |   Yes   |
 |               [Pipedream](https://pipedream.com/) | [![Pipedream](https://img.shields.io/github/stars/PipedreamHQ/pipedream.svg?style=social)](https://github.com/PipedreamHQ/pipedream)                      |   Yes   |
 |                  [Temporal](https://temporal.io/) | [![Temporal](https://img.shields.io/github/stars/temporalio/temporal.svg?style=social)](https://github.com/temporalio/temporal)                           |   Yes   |  
+
+## Writing platform
+Alternatives to: [Medium](https://medium.com/)
+
+|                             Open source | Stars                                                                                                                                      | Private |
+| --------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------- | :-----: |
+|          [Sigle](https://www.sigle.io/) | [![Sigle](https://img.shields.io/github/stars/sigle/sigle.svg?style=social)](https://github.com/sigle/sigle)                               |   Yes   |
+| [WriteFreely](https://writefreely.org/) | [![WriteFreely](https://img.shields.io/github/stars/writefreely/writefreely.svg?style=social)](https://github.com/writefreely/writefreely) |    -    |  
 
