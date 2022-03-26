@@ -143,18 +143,20 @@ Alternatives to: [Google Docs](https://docs.google.com/)
 | [EtherPad](https://etherpad.org/) | [![EtherPad](https://img.shields.io/github/stars/ether/etherpad-lite.svg?style=social)](https://github.com/ether/etherpad-lite) |    -    |  
 
 ## E-commerce
-Alternatives to: [Ecwid](https://www.ecwid.com/), [Shogun](https://getshogun.com/), [Shopify](https://www.shopify.com/)
+Alternatives to: [BigCommerce](https://www.bigcommerce.com/), [Ecwid](https://www.ecwid.com/), [Shogun](https://getshogun.com/), [Shopify](https://www.shopify.com/)
 
 |                                                               Open source | Stars                                                                                                                                                      | Private |
 | ------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----: |
 |                                        [Bagisto](https://bagisto.com/en/) | [![Bagisto](https://img.shields.io/github/stars/bagisto/bagisto.svg?style=social)](https://github.com/bagisto/bagisto)                                     |   Yes   |
 | [Mailchimp Open Commerce](https://mailchimp.com/developer/open-commerce/) | [![Mailchimp Open Commerce](https://img.shields.io/github/stars/reactioncommerce/reaction.svg?style=social)](https://github.com/reactioncommerce/reaction) |   Yes   |
 |                                       [Medusa](https://www.medusajs.com/) | [![Medusa](https://img.shields.io/github/stars/medusajs/medusa.svg?style=social)](https://github.com/medusajs/medusa)                                      |   Yes   |
+|                               [PrestaShop](https://www.prestashop.com/en) | [![PrestaShop](https://img.shields.io/github/stars/prestashop/prestashop.svg?style=social)](https://github.com/prestashop/prestashop)                      |    -    |
 |                                              [Saleor](https://saleor.io/) | [![Saleor](https://img.shields.io/github/stars/saleor/saleor.svg?style=social)](https://github.com/saleor/saleor)                                          |   Yes   |
 |                                               [Shuup](https://shuup.com/) | [![Shuup](https://img.shields.io/github/stars/shuup/shuup.svg?style=social)](https://github.com/shuup/shuup)                                               |   Yes   |
 |                                             [Sylius](https://sylius.com/) | [![Sylius](https://img.shields.io/github/stars/sylius/sylius.svg?style=social)](https://github.com/sylius/sylius)                                          |   Yes   |
 |                                        [Vendure](https://www.vendure.io/) | [![Vendure](https://img.shields.io/github/stars/vendure-ecommerce/vendure.svg?style=social)](https://github.com/vendure-ecommerce/vendure)                 |   Yes   |
-|                           [Vue Storefront](https://www.vuestorefront.io/) | [![Vue Storefront](https://img.shields.io/github/stars/vuestorefront/vue-storefront.svg?style=social)](https://github.com/vuestorefront/vue-storefront)    |   Yes   |  
+|                           [Vue Storefront](https://www.vuestorefront.io/) | [![Vue Storefront](https://img.shields.io/github/stars/vuestorefront/vue-storefront.svg?style=social)](https://github.com/vuestorefront/vue-storefront)    |   Yes   |
+|                                   [WooCommerce](https://woocommerce.com/) | [![WooCommerce](https://img.shields.io/github/stars/woocommerce/woocommerce.svg?style=social)](https://github.com/woocommerce/woocommerce)                 |   Yes   |  
 
 ## ELT / ETL
 Alternatives to: [Fivetran](https://fivetran.com/)
@@ -167,12 +169,13 @@ Alternatives to: [Fivetran](https://fivetran.com/)
 | [Prefect](https://www.prefect.io/) | [![Prefect](https://img.shields.io/github/stars/prefecthq/prefect.svg?style=social)](https://github.com/prefecthq/prefect)   |   Yes   |  
 
 ## ERP
-Alternatives to: [Microsoft Dynamics](https://dynamics.microsoft.com/), [Odoo](https://odoo.com/), [Oracle Fusion ERP Cloud](https://www.oracle.com/erp)
+Alternatives to: [Microsoft Dynamics](https://dynamics.microsoft.com/), [Oracle Fusion ERP Cloud](https://www.oracle.com/erp)
 
 |                         Open source | Stars                                                                                                                        | Private |
 | ----------------------------------: | :--------------------------------------------------------------------------------------------------------------------------- | :-----: |
 | [DoliCloud](https://dolicloud.com/) | [![DoliCloud](https://img.shields.io/github/stars/Dolibarr/dolibarr.svg?style=social)](https://github.com/Dolibarr/dolibarr) |   Yes   |
-|     [Erpnext](https://erpnext.com/) | [![Erpnext](https://img.shields.io/github/stars/frappe/erpnext.svg?style=social)](https://github.com/frappe/erpnext)         |   Yes   |  
+|     [Erpnext](https://erpnext.com/) | [![Erpnext](https://img.shields.io/github/stars/frappe/erpnext.svg?style=social)](https://github.com/frappe/erpnext)         |   Yes   |
+|           [Odoo](https://odoo.com/) | [![Odoo](https://img.shields.io/github/stars/odoo/odoo.svg?style=social)](https://github.com/odoo/odoo)                      |   Yes   |  
 
 ## Email marketing
 Alternatives to: [Mailchimp](https://mailchimp.com/), [Sendinblue](https://www.sendinblue.com/)
@@ -278,13 +281,15 @@ Alternatives to: [AWS SageMaker](https://aws.amazon.com/sagemaker/), [BigQuery M
 | [Zilliz's Towhee](https://towhee.io/) | [![Zilliz's Towhee](https://img.shields.io/github/stars/towhee-io/towhee.svg?style=social)](https://github.com/towhee-io/towhee) |   Yes   |  
 
 ## Messaging
-Alternatives to: [Slack](https://slack.com/)
+Alternatives to: [Discord](https://discord.com/), [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software), [Slack](https://slack.com/)
 
 |                           Open source | Stars                                                                                                                                               | Private |
 | ------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------- | :-----: |
 |        [Element](https://element.io/) | [![Element](https://img.shields.io/github/stars/vector-im/element-web.svg?style=social)](https://github.com/vector-im/element-web)                  |   Yes   |
 | [Mattermost](https://mattermost.com/) | [![Mattermost](https://img.shields.io/github/stars/mattermost/mattermost-server.svg?style=social)](https://github.com/mattermost/mattermost-server) |   Yes   |
 |   [Rocket.chat](https://rocket.chat/) | [![Rocket.chat](https://img.shields.io/github/stars/RocketChat/Rocket.Chat.svg?style=social)](https://github.com/RocketChat/Rocket.Chat)            |   Yes   |
+|           [Twake](https://twake.app/) | [![Twake](https://img.shields.io/github/stars/linagora/Twake.svg?style=social)](https://github.com/linagora/Twake)                                  |   Yes   |
+|          [Wire](https://wire.com/en/) | [![Wire](https://img.shields.io/github/stars/wireapp/wire.svg?style=social)](https://github.com/wireapp/wire)                                       |   Yes   |
 |           [Zulip](https://zulip.com/) | [![Zulip](https://img.shields.io/github/stars/zulip/zulip.svg?style=social)](https://github.com/zulip/zulip)                                        |   Yes   |  
 
 ## Metrics store
@@ -296,6 +301,18 @@ Alternatives to: [Looker](https://looker.com/)
 | [LightDash](https://www.lightdash.com/) | [![LightDash](https://img.shields.io/github/stars/lightdash/lightdash.svg?style=social)](https://github.com/lightdash/lightdash) |   Yes   |
 |           [MLCraft](http://mlcraft.io/) | [![MLCraft](https://img.shields.io/github/stars/mlcraft-io/mlcraft.svg?style=social)](https://github.com/mlcraft-io/mlcraft)     |   Yes   |
 |         [MetriQL](https://metriql.com/) | [![MetriQL](https://img.shields.io/github/stars/metriql/metriql.svg?style=social)](https://github.com/metriql/metriql)           |   Yes   |  
+
+## Mobile operating system
+Alternatives to
+
+
+  
+
+## NPM registry
+Alternatives to
+
+
+  
 
 ## No-code database
 Alternatives to: [AirTable](https://www.airtable.com/)
@@ -344,16 +361,25 @@ Alternatives to: [1Password](https://1password.com/)
 |         [Padloc](https://padloc.app/) | [![Padloc](https://img.shields.io/github/stars/padloc/padloc.svg?style=social)](https://github.com/padloc/padloc)                          |   Yes   |
 | [Passbolt](https://www.passbolt.com/) | [![Passbolt](https://img.shields.io/github/stars/passbolt/passbolt_api.svg?style=social)](https://github.com/passbolt/passbolt_api)        |   Yes   |  
 
+## Photo sharing platform
+Alternatives to
+
+
+  
+
 ## Platform as a Service (PaaS)
 Alternatives to: [Heroku](https://www.heroku.com/)
 
 |                            Open source | Stars                                                                                                                                          | Private |
 | -------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------- | :-----: |
+|      [CapRover](https://caprover.com/) | [![CapRover](https://img.shields.io/github/stars/CapRover/CapRover.svg?style=social)](https://github.com/CapRover/CapRover)                    |    -    |
 |         [Coolify](https://coolify.io/) | [![Coolify](https://img.shields.io/github/stars/coollabsio/coolify.svg?style=social)](https://github.com/coollabsio/coolify)                   |   Yes   |
 |            [Dokku](https://dokku.com/) | [![Dokku](https://img.shields.io/github/stars/dokku/dokku.svg?style=social)](https://github.com/dokku/dokku)                                   |    -    |
+|  [OpenFaaS](https://www.openfaas.com/) | [![OpenFaaS](https://img.shields.io/github/stars/openfaas/faas.svg?style=social)](https://github.com/openfaas/faas)                            |    -    |
 |          [Porter](https://porter.run/) | [![Porter](https://img.shields.io/github/stars/porter-dev/porter.svg?style=social)](https://github.com/porter-dev/porter)                      |   Yes   |
 |      [Qovery](https://www.qovery.com/) | [![Qovery](https://img.shields.io/github/stars/Qovery/engine.svg?style=social)](https://github.com/Qovery/engine)                              |   Yes   |
-| [Space Cloud](https://space-cloud.io/) | [![Space Cloud](https://img.shields.io/github/stars/spacecloud-io/space-cloud.svg?style=social)](https://github.com/spacecloud-io/space-cloud) |   Yes   |  
+| [Space Cloud](https://space-cloud.io/) | [![Space Cloud](https://img.shields.io/github/stars/spacecloud-io/space-cloud.svg?style=social)](https://github.com/spacecloud-io/space-cloud) |   Yes   |
+|             [Tsuru](https://tsuru.io/) | [![Tsuru](https://img.shields.io/github/stars/tsuru/tsuru.svg?style=social)](https://github.com/tsuru/tsuru)                                   |    -    |  
 
 ## Product Analytics
 Alternatives to: [Amplitude](https://amplitude.com/), [MixPanel](https://mixpanel.com/)
