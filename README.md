@@ -59,6 +59,13 @@ Alternatives to: [Contentful](https://www.contentful.com/)
 |                   [Tina](https://tina.io/) | [![Tina](https://img.shields.io/github/stars/tinacms/tinacms.svg?style=social)](https://github.com/tinacms/tinacms)                |   Yes   |
 |          [Webiny](https://www.webiny.com/) | [![Webiny](https://img.shields.io/github/stars/webiny/webiny-js.svg?style=social)](https://github.com/webiny/webiny-js)            |   Yes   |  
 
+## Calendar
+Alternatives to: [Google Calendar](https://calendar.google.com/)
+
+|                              Open source | Stars                                                                                                                                           | Private |
+| ---------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------- | :-----: |
+| [FullCalendar](https://fullcalendar.io/) | [![FullCalendar](https://img.shields.io/github/stars/fullcalendar/fullcalendar.svg?style=social)](https://github.com/fullcalendar/fullcalendar) |   Yes   |  
+
 ## Cloud Storage
 Alternatives to: [Amazon S3](https://aws.amazon.com/s3/)
 
@@ -106,16 +113,6 @@ Alternatives to: [Intercom](https://www.intercom.com/), [Zendesk](https://www.ze
 |    [Papercups](https://papercups.io/) | [![Papercups](https://img.shields.io/github/stars/papercups-io/papercups.svg?style=social)](https://github.com/papercups-io/papercups)    |   Yes   |
 |  [UVdesk](https://www.uvdesk.com/en/) | [![UVdesk](https://img.shields.io/github/stars/uvdesk/community-skeleton.svg?style=social)](https://github.com/uvdesk/community-skeleton) |   Yes   |
 |       [Zammad](https://zammad.com/en) | [![Zammad](https://img.shields.io/github/stars/zammad/zammad.svg?style=social)](https://github.com/zammad/zammad)                         |   Yes   |  
-
-## Customer feedback management
-Alternatives to: [Canny](https://canny.io/)
-
-|                                  Open source | Stars                                                                                                                                 | Private |
-| -------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------ | :-----: |
-|  [Astuto](https://github.com/riggraz/astuto) | [![Astuto](https://img.shields.io/github/stars/riggraz/astuto.svg?style=social)](https://github.com/riggraz/astuto)                   |    -    |
-|        [ClearFlask](https://clearflask.com/) | [![ClearFlask](https://img.shields.io/github/stars/clearflask/clearflask.svg?style=social)](https://github.com/clearflask/clearflask) |   Yes   |
-|                   [Fider](https://fider.io/) | [![Fider](https://img.shields.io/github/stars/getfider/fider.svg?style=social)](https://github.com/getfider/fider)                    |   Yes   |
-| [LogChimp](https://logchimp.codecarrot.net/) | [![LogChimp](https://img.shields.io/github/stars/logchimp/logchimp.svg?style=social)](https://github.com/logchimp/logchimp)           |    -    |  
 
 ## Cybersecurity
 Alternatives to: [AWS Config](https://aws.amazon.com/config/), [AWS GuardDuty](https://aws.amazon.com/guardduty/), [GCP Cloud Asset Inventory](https://cloud.google.com/asset-inventory), [GreyNoise](https://www.greynoise.io/), [OpenVPN](https://openvpn.net/), [OpenVPN Access Server](https://openvpn.net/access-server/), [Tailscale](https://tailscale.com/), [Tenable Nessus](https://www.tenable.com/products/nessus)
@@ -249,14 +246,6 @@ Alternatives to: [Bloomberg](https://www.bloomberg.com/)
 | ---------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-----: |
 | [Gamestonk Terminal](https://gamestonkterminal.github.io/GamestonkTerminal/) | [![Gamestonk Terminal](https://img.shields.io/github/stars/GamestonkTerminal/GamestonkTerminal.svg?style=social)](https://github.com/GamestonkTerminal/GamestonkTerminal) |   Yes   |  
 
-## Forms and surveys platform
-Alternatives to: [Typeform](https://www.typeform.com/product/)
-
-|                                     Open source | Stars                                                                                                                                                               | Private |
-| ----------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-----: |
-|               [OhMyForm](https://ohmyform.com/) | [![OhMyForm](https://img.shields.io/github/stars/ohmyform/ohmyform.svg?style=social)](https://github.com/ohmyform/ohmyform)                                         |    -    |
-| [Super Easy Forms](https://supereasyforms.com/) | [![Super Easy Forms](https://img.shields.io/github/stars/super-easy-forms/super-easy-forms.svg?style=social)](https://github.com/super-easy-forms/super-easy-forms) |    -    |  
-
 ## Forum Software
 Alternatives to: [Circle](https://circle.so/), [Tribe](https://tribe.so/)
 
@@ -387,6 +376,14 @@ Alternatives to: [AWS Lookout](https://aws.amazon.com/lookout-for-metrics/), [An
 |                    [Signoz](https://signoz.io/) | [![Signoz](https://img.shields.io/github/stars/signoz/signoz.svg?style=social)](https://github.com/signoz/signoz)                                              |   Yes   |
 | [VictoriaMetrics](https://victoriametrics.com/) | [![VictoriaMetrics](https://img.shields.io/github/stars/VictoriaMetrics/VictoriaMetrics.svg?style=social)](https://github.com/VictoriaMetrics/VictoriaMetrics) |   Yes   |  
 
+## Online interactive forms
+Alternatives to: [Typeform](https://www.typeform.com/product/)
+
+|                                     Open source | Stars                                                                                                                                                               | Private |
+| ----------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-----: |
+|               [OhMyForm](https://ohmyform.com/) | [![OhMyForm](https://img.shields.io/github/stars/ohmyform/ohmyform.svg?style=social)](https://github.com/ohmyform/ohmyform)                                         |    -    |
+| [Super Easy Forms](https://supereasyforms.com/) | [![Super Easy Forms](https://img.shields.io/github/stars/super-easy-forms/super-easy-forms.svg?style=social)](https://github.com/super-easy-forms/super-easy-forms) |    -    |  
+
 ## Password manager
 Alternatives to: [1Password](https://1password.com/), [Lastpass](https://www.lastpass.com/)
 
@@ -427,6 +424,16 @@ Alternatives to: [Amplitude](https://amplitude.com/), [MixPanel](https://mixpane
 | ------------------------------: | :--------------------------------------------------------------------------------------------------------------------- | :-----: |
 | [PostHog](https://posthog.com/) | [![PostHog](https://img.shields.io/github/stars/PostHog/posthog.svg?style=social)](https://github.com/PostHog/posthog) |   Yes   |  
 
+## Product Feedback
+Alternatives to: [Canny](https://canny.io/)
+
+|                                  Open source | Stars                                                                                                                                 | Private |
+| -------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------ | :-----: |
+|  [Astuto](https://github.com/riggraz/astuto) | [![Astuto](https://img.shields.io/github/stars/riggraz/astuto.svg?style=social)](https://github.com/riggraz/astuto)                   |    -    |
+|        [ClearFlask](https://clearflask.com/) | [![ClearFlask](https://img.shields.io/github/stars/clearflask/clearflask.svg?style=social)](https://github.com/clearflask/clearflask) |   Yes   |
+|                   [Fider](https://fider.io/) | [![Fider](https://img.shields.io/github/stars/getfider/fider.svg?style=social)](https://github.com/getfider/fider)                    |   Yes   |
+| [LogChimp](https://logchimp.codecarrot.net/) | [![LogChimp](https://img.shields.io/github/stars/logchimp/logchimp.svg?style=social)](https://github.com/logchimp/logchimp)           |    -    |  
+
 ## Project Management
 Alternatives to: [Asana](https://asana.com/), [Jira](https://www.atlassian.com/software/jira), [Notion](https://www.notion.so/), [Trello](https://trello.com/)
 
@@ -436,6 +443,7 @@ Alternatives to: [Asana](https://asana.com/), [Jira](https://www.atlassian.com/s
 |           [Kanboard](https://kanboard.org/) | [![Kanboard](https://img.shields.io/github/stars/kanboard/kanboard.svg?style=social)](https://github.com/kanboard/kanboard)                        |    -    |
 |            [Leantime](https://leantime.io/) | [![Leantime](https://img.shields.io/github/stars/leantime/leantime.svg?style=social)](https://github.com/leantime/leantime)                        |    -    |
 | [OpenProject](https://www.openproject.org/) | [![OpenProject](https://img.shields.io/github/stars/opf/openproject.svg?style=social)](https://github.com/opf/openproject)                         |   Yes   |
+|     [Restyaboard](https://restya.com/board) | [![Restyaboard](https://img.shields.io/github/stars/RestyaPlatform/board.svg?style=social)](https://github.com/RestyaPlatform/board)               |   Yes   |
 |              [Taiga](https://www.taiga.io/) | [![Taiga](https://img.shields.io/github/stars/kaleidos-ventures/taiga-docker.svg?style=social)](https://github.com/kaleidos-ventures/taiga-docker) |   Yes   |
 |           [Wekan](https://wekan.github.io/) | [![Wekan](https://img.shields.io/github/stars/wekan/wekan.svg?style=social)](https://github.com/wekan/wekan)                                       |    -    |  
 
@@ -492,7 +500,8 @@ Alternatives to: [FullStory](https://www.fullstory.com/), [LogRocket](https://lo
 
 |                           Open source | Stars                                                                                                                                 | Private |
 | ------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------ | :-----: |
-| [OpenReplay](https://openreplay.com/) | [![OpenReplay](https://img.shields.io/github/stars/openreplay/openreplay.svg?style=social)](https://github.com/openreplay/openreplay) |   Yes   |  
+| [OpenReplay](https://openreplay.com/) | [![OpenReplay](https://img.shields.io/github/stars/openreplay/openreplay.svg?style=social)](https://github.com/openreplay/openreplay) |   Yes   |
+|        [rrweb](https://www.rrweb.io/) | [![rrweb](https://img.shields.io/github/stars/rrweb-io/rrweb.svg?style=social)](https://github.com/rrweb-io/rrweb)                    |    -    |  
 
 ## Social media
 Alternatives to: [Facebook](https://www.facebook.com/)
@@ -535,11 +544,12 @@ Alternatives to: [Adobe Illustrator](https://www.adobe.com/products/illustrator.
 ## Video Conferencing
 Alternatives to: [Agora](https://agora.io/), [Twilio](https://www.twilio.com/), [Zoom](https://zoom.us/)
 
-|                      Open source | Stars                                                                                                                                | Private |
-| -------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------- | :-----: |
-|  [Jitsi](https://jitsi.org/meet) | [![Jitsi](https://img.shields.io/github/stars/jitsi/jitsi-meet.svg?style=social)](https://github.com/jitsi/jitsi-meet)               |   Yes   |
-|   [LiveKit](https://livekit.io/) | [![LiveKit](https://img.shields.io/github/stars/livekit/livekit-server.svg?style=social)](https://github.com/livekit/livekit-server) |   Yes   |
-| [OpenVidu](https://openvidu.io/) | [![OpenVidu](https://img.shields.io/github/stars/OpenVidu/openvidu.svg?style=social)](https://github.com/OpenVidu/openvidu)          |   Yes   |  
+|                                 Open source | Stars                                                                                                                                                | Private |
+| ------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :-----: |
+| [BigBlueButton](https://bigbluebutton.org/) | [![BigBlueButton](https://img.shields.io/github/stars/bigbluebutton/bigbluebutton.svg?style=social)](https://github.com/bigbluebutton/bigbluebutton) |    -    |
+|             [Jitsi](https://jitsi.org/meet) | [![Jitsi](https://img.shields.io/github/stars/jitsi/jitsi-meet.svg?style=social)](https://github.com/jitsi/jitsi-meet)                               |   Yes   |
+|              [LiveKit](https://livekit.io/) | [![LiveKit](https://img.shields.io/github/stars/livekit/livekit-server.svg?style=social)](https://github.com/livekit/livekit-server)                 |   Yes   |
+|            [OpenVidu](https://openvidu.io/) | [![OpenVidu](https://img.shields.io/github/stars/OpenVidu/openvidu.svg?style=social)](https://github.com/OpenVidu/openvidu)                          |   Yes   |  
 
 ## Video platform
 Alternatives to: [YouTube](https://www.youtube.com/)
