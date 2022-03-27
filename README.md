@@ -66,6 +66,13 @@ Alternatives to: [Google Calendar](https://calendar.google.com/)
 | ---------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------- | :-----: |
 | [FullCalendar](https://fullcalendar.io/) | [![FullCalendar](https://img.shields.io/github/stars/fullcalendar/fullcalendar.svg?style=social)](https://github.com/fullcalendar/fullcalendar) |   Yes   |  
 
+## Cloud Asset Inventory
+Alternatives to: [AWS Config](https://aws.amazon.com/config/), [AWS GuardDuty](https://aws.amazon.com/guardduty/), [GCP Cloud Asset Inventory](https://cloud.google.com/asset-inventory)
+
+|                          Open source | Stars                                                                                                                                 | Private |
+| -----------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------ | :-----: |
+| [CloudQuery](https://cloudquery.io/) | [![CloudQuery](https://img.shields.io/github/stars/cloudquery/cloudquery.svg?style=social)](https://github.com/cloudquery/cloudquery) |   Yes   |  
+
 ## Cloud Storage
 Alternatives to: [Amazon S3](https://aws.amazon.com/s3/)
 
@@ -86,6 +93,13 @@ Alternatives to: [BitBucket](https://bitbucket.org/), [GitHub](https://github.co
 |            [Gogs](https://gogs.io/) | [![Gogs](https://img.shields.io/github/stars/gogs/gogs.svg?style=social)](https://github.com/gogs/gogs)                   |    -    |
 |   [OneDev](https://code.onedev.io/) | [![OneDev](https://img.shields.io/github/stars/theonedev/onedev.svg?style=social)](https://github.com/theonedev/onedev)   |    -    |
 |  [Pagure](https://pagure.io/pagure) | [![Pagure](https://img.shields.io/github/stars/Pagure/pagure.svg?style=social)](https://github.com/Pagure/pagure)         |    -    |  
+
+## Collaborative IPS Security
+Alternatives to: [GreyNoise](https://www.greynoise.io/)
+
+|                      Open source | Stars                                                                                                                                 | Private |
+| -------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------ | :-----: |
+| [CrowdSec](http://crowdsec.net/) | [![CrowdSec](https://img.shields.io/github/stars/crowdsecurity/crowdsec.svg?style=social)](https://github.com/crowdsecurity/crowdsec) |   Yes   |  
 
 ## Communication
 Alternatives to: [Twilio](https://www.twilio.com/)
@@ -534,12 +548,29 @@ Alternatives to: [Kdb+](https://kx.com/developers/)
 |      [TDengine](https://tdengine.com/?en) | [![TDengine](https://img.shields.io/github/stars/taosdata/TDengine.svg?style=social)](https://github.com/taosdata/TDengine)            |   Yes   |
 | [TimescaleDB](https://www.timescale.com/) | [![TimescaleDB](https://img.shields.io/github/stars/timescale/timescaledb.svg?style=social)](https://github.com/timescale/timescaledb) |   Yes   |  
 
+## VPN Server
+Alternatives to: [OpenVPN](https://openvpn.net/), [OpenVPN Access Server](https://openvpn.net/access-server/), [Tailscale](https://tailscale.com/)
+
+|                        Open source | Stars                                                                                                                       | Private |
+| ---------------------------------: | :-------------------------------------------------------------------------------------------------------------------------- | :-----: |
+| [Firezone](https://www.firez.one/) | [![Firezone](https://img.shields.io/github/stars/firezone/firezone.svg?style=social)](https://github.com/firezone/firezone) |   Yes   |
+|    [Gravitl](https://gravitl.com/) | [![Gravitl](https://img.shields.io/github/stars/gravitl/netmaker.svg?style=social)](https://github.com/gravitl/netmaker)    |   Yes   |  
+
 ## Vector graphic design
 Alternatives to: [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)
 
 |                       Open source | Stars                                        | Private |
 | --------------------------------: | :------------------------------------------- | :-----: |
 | [Inkscape](https://inkscape.org/) | [Repo](https://gitlab.com/inkscape/inkscape) |    -    |  
+
+## Vector search engine
+Alternatives to: [Algolia](https://www.algolia.com/), [Google Vertex AI](https://cloud.google.com/vertex-ai)
+
+|                                     Open source | Stars                                                                                                                                                | Private |
+| ----------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :-----: |
+|                  [Qdrant](https://qdrant.tech/) | [![Qdrant](https://img.shields.io/github/stars/qdrant/qdrant.svg?style=social)](https://github.com/qdrant/qdrant)                                    |   Yes   |
+| [SeMI's Weaviate](https://www.semi.technology/) | [![SeMI's Weaviate](https://img.shields.io/github/stars/semi-technologies/weaviate.svg?style=social)](https://github.com/semi-technologies/weaviate) |   Yes   |
+|           [Zilliz's Milvus](https://milvus.io/) | [![Zilliz's Milvus](https://img.shields.io/github/stars/milvus-io/milvus.svg?style=social)](https://github.com/milvus-io/milvus)                     |   Yes   |  
 
 ## Video Conferencing
 Alternatives to: [Agora](https://agora.io/), [Twilio](https://www.twilio.com/), [Zoom](https://zoom.us/)
@@ -558,6 +589,13 @@ Alternatives to: [YouTube](https://www.youtube.com/)
 | ------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------ | :-----: |
 |      [NodeTube](https://newtube.app/) | [![NodeTube](https://img.shields.io/github/stars/mayeaux/nodetube.svg?style=social)](https://github.com/mayeaux/nodetube)       |    -    |
 | [Peertube](https://joinpeertube.org/) | [![Peertube](https://img.shields.io/github/stars/Chocobozzz/PeerTube.svg?style=social)](https://github.com/Chocobozzz/PeerTube) |    -    |  
+
+## Vulnerability scanner 
+Alternatives to: [Tenable Nessus](https://www.tenable.com/products/nessus)
+
+|                                   Open source | Stars                                                                                                                                 | Private |
+| --------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------ | :-----: |
+| [Nuclei](https://nuclei.projectdiscovery.io/) | [![Nuclei](https://img.shields.io/github/stars/projectdiscovery/nuclei.svg?style=social)](https://github.com/projectdiscovery/nuclei) |   Yes   |  
 
 ## Website analytics
 Alternatives to: [Google Analytics](https://analytics.google.com/)
