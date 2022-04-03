@@ -41,6 +41,7 @@ Alternatives to: [Auth0](https://auth0.com/), [Firebase Authentication](null), [
 
 |                                                                                                                    Open source | Stars                                                                                                                                                       | Private |
 | -----------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----: |
+|      [Authentik](https://goauthentik.io/)  [![Authentik](https://github.com/goauthentik.png?size=20)](https://goauthentik.io/) | [![Authentik](https://img.shields.io/github/stars/goauthentik/authentik.svg?style=social)](https://github.com/goauthentik/authentik)                        |    -    |
 |                         [Cerbos](https://cerbos.dev/)  [![Cerbos](https://github.com/cerbos.png?size=20)](https://cerbos.dev/) | [![Cerbos](https://img.shields.io/github/stars/cerbos/cerbos.svg?style=social)](https://github.com/cerbos/cerbos)                                           |   Yes   |
 |       [FusionAuth](https://fusionauth.io/)  [![FusionAuth](https://github.com/FusionAuth.png?size=20)](https://fusionauth.io/) | [![FusionAuth](https://img.shields.io/github/stars/FusionAuth/fusionauth-containers.svg?style=social)](https://github.com/FusionAuth/fusionauth-containers) |   Yes   |
 |     [Keycloak](https://www.cloud-iam.com/)  [![Keycloak](https://github.com/keycloak.png?size=20)](https://www.cloud-iam.com/) | [![Keycloak](https://img.shields.io/github/stars/keycloak/keycloak.svg?style=social)](https://github.com/keycloak/keycloak)                                 |   Yes   |
@@ -121,7 +122,8 @@ Alternatives to: [BitBucket](https://bitbucket.org/), [GitHub](https://github.co
 |                   [Gitea](https://gitea.io/)  [![Gitea](https://github.com/go-gitea.png?size=20)](https://gitea.io/) | [![Gitea](https://img.shields.io/github/stars/go-gitea/gitea.svg?style=social)](https://github.com/go-gitea/gitea)        |    -    |
 |                           [Gogs](https://gogs.io/)  [![Gogs](https://github.com/gogs.png?size=20)](https://gogs.io/) | [![Gogs](https://img.shields.io/github/stars/gogs/gogs.svg?style=social)](https://github.com/gogs/gogs)                   |    -    |
 |    [OneDev](https://code.onedev.io/)  [![OneDev](https://github.com/theonedev.png?size=20)](https://code.onedev.io/) | [![OneDev](https://img.shields.io/github/stars/theonedev/onedev.svg?style=social)](https://github.com/theonedev/onedev)   |    -    |
-|     [Pagure](https://pagure.io/pagure)  [![Pagure](https://github.com/Pagure.png?size=20)](https://pagure.io/pagure) | [![Pagure](https://img.shields.io/github/stars/Pagure/pagure.svg?style=social)](https://github.com/Pagure/pagure)         |    -    |  
+|     [Pagure](https://pagure.io/pagure)  [![Pagure](https://github.com/Pagure.png?size=20)](https://pagure.io/pagure) | [![Pagure](https://img.shields.io/github/stars/Pagure/pagure.svg?style=social)](https://github.com/Pagure/pagure)         |    -    |
+|     [Sturdy](https://getsturdy.com/)  [![Sturdy](https://github.com/sturdy-dev.png?size=20)](https://getsturdy.com/) | [![Sturdy](https://img.shields.io/github/stars/sturdy-dev/sturdy.svg?style=social)](https://github.com/sturdy-dev/sturdy) |   Yes   |  
 
 ## Collaborative IPS Security
 Alternatives to: [GreyNoise](https://www.greynoise.io/)
@@ -300,12 +302,20 @@ Alternatives to: [Circle](https://circle.so/), [Tribe](https://tribe.so/)
 |                     [Forem](https://www.forem.com/)  [![Forem](https://github.com/forem.png?size=20)](https://www.forem.com/) | [![Forem](https://img.shields.io/github/stars/forem/forem.svg?style=social)](https://github.com/forem/forem)                     |   Yes   |
 |       [Vanilla](https://vanillaforums.com/)  [![Vanilla](https://github.com/vanilla.png?size=20)](https://vanillaforums.com/) | [![Vanilla](https://img.shields.io/github/stars/vanilla/vanilla.svg?style=social)](https://github.com/vanilla/vanilla)           |   Yes   |  
 
+## Game Engine
+Alternatives to: [Unity](https://unity.com/), [Unreal Engine](https://www.unrealengine.com/en-US/)
+
+|                                                                                                         Open source | Stars                                                                                                                    | Private |
+| ------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------- | :-----: |
+| [Godot](https://godotengine.org/)  [![Godot](https://github.com/godotengine.png?size=20)](https://godotengine.org/) | [![Godot](https://img.shields.io/github/stars/godotengine/godot.svg?style=social)](https://github.com/godotengine/godot) |    -    |  
+
 ## Graph database
 Alternatives to: [Amazon Neptune](https://aws.amazon.com/neptune/), [TigerGraph](https://www.tigergraph.com/)
 
 |                                                                                                                Open source | Stars                                                                                                                                 | Private |
 | -------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------ | :-----: |
 |   [ArangoDB](https://www.arangodb.com/)  [![ArangoDB](https://github.com/arangodb.png?size=20)](https://www.arangodb.com/) | [![ArangoDB](https://img.shields.io/github/stars/arangodb/arangodb.svg?style=social)](https://github.com/arangodb/arangodb)           |   Yes   |
+|                    [Dgraph](https://dgraph.io/)  [![Dgraph](https://github.com/dgraph-io.png?size=20)](https://dgraph.io/) | [![Dgraph](https://img.shields.io/github/stars/dgraph-io/dgraph.svg?style=social)](https://github.com/dgraph-io/dgraph)               |   Yes   |
 |           [Memgraph](https://memgraph.com/)  [![Memgraph](https://github.com/memgraph.png?size=20)](https://memgraph.com/) | [![Memgraph](https://img.shields.io/github/stars/memgraph/memgraph.svg?style=social)](https://github.com/memgraph/memgraph)           |   Yes   |
 |                            [Neo4j](http://neo4j.com/)  [![Neo4j](https://github.com/neo4j.png?size=20)](http://neo4j.com/) | [![Neo4j](https://img.shields.io/github/stars/neo4j/neo4j.svg?style=social)](https://github.com/neo4j/neo4j)                          |   Yes   |
 | [TerminusDB](https://terminusdb.com/)  [![TerminusDB](https://github.com/terminusdb.png?size=20)](https://terminusdb.com/) | [![TerminusDB](https://img.shields.io/github/stars/terminusdb/terminusdb.svg?style=social)](https://github.com/terminusdb/terminusdb) |   Yes   |  
@@ -345,6 +355,7 @@ Alternatives to: [Papertrail](https://www.papertrail.com/), [Splunk](https://www
 
 |                                                                                                          Open source | Stars                                                                                                                                    | Private |
 | -------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------- | :-----: |
+|       [GoAccess](https://goaccess.io/)  [![GoAccess](https://github.com/allinurl.png?size=20)](https://goaccess.io/) | [![GoAccess](https://img.shields.io/github/stars/allinurl/goaccess.svg?style=social)](https://github.com/allinurl/goaccess)              |    -    |
 | [Graylog](https://www.graylog.org/)  [![Graylog](https://github.com/Graylog2.png?size=20)](https://www.graylog.org/) | [![Graylog](https://img.shields.io/github/stars/Graylog2/graylog2-server.svg?style=social)](https://github.com/Graylog2/graylog2-server) |   Yes   |  
 
 ## ML Ops
@@ -357,6 +368,13 @@ Alternatives to: [AWS SageMaker](https://aws.amazon.com/sagemaker/), [BigQuery M
 |            [Ploomber](https://ploomber.io/)  [![Ploomber](https://github.com/ploomber.png?size=20)](https://ploomber.io/) | [![Ploomber](https://img.shields.io/github/stars/ploomber/ploomber.svg?style=social)](https://github.com/ploomber/ploomber)      |   Yes   |
 |                    [Seldon](https://seldon.io/)  [![Seldon](https://github.com/SeldonIO.png?size=20)](https://seldon.io/) | [![Seldon](https://img.shields.io/github/stars/SeldonIO/seldon-core.svg?style=social)](https://github.com/SeldonIO/seldon-core)  |   Yes   |
 | [Zilliz's Towhee](https://towhee.io/)  [![Zilliz's Towhee](https://github.com/towhee-io.png?size=20)](https://towhee.io/) | [![Zilliz's Towhee](https://img.shields.io/github/stars/towhee-io/towhee.svg?style=social)](https://github.com/towhee-io/towhee) |   Yes   |  
+
+## Media System
+Alternatives to: [Emby](https://emby.media/), [Plex](https://www.plex.tv/)
+
+|                                                                                                      Open source | Stars                                                                                                                       | Private |
+| ---------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------- | :-----: |
+| [Jellyfin](https://jellyfin.org/)  [![Jellyfin](https://github.com/jellyfin.png?size=20)](https://jellyfin.org/) | [![Jellyfin](https://img.shields.io/github/stars/jellyfin/jellyfin.svg?style=social)](https://github.com/jellyfin/jellyfin) |    -    |  
 
 ## Messaging
 Alternatives to: [Discord](https://discord.com/), [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software), [Slack](https://slack.com/)
@@ -552,7 +570,8 @@ Alternatives to: [TablePlus](https://www.tableplus.io/)
 
 |                                                                                                                                                  Open source | Stars                                                                                                                                                               | Private |
 | -----------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-----: |
-| [Beekeeper Studio](https://www.beekeeperstudio.io/)  [![Beekeeper Studio](https://github.com/beekeeper-studio.png?size=20)](https://www.beekeeperstudio.io/) | [![Beekeeper Studio](https://img.shields.io/github/stars/beekeeper-studio/beekeeper-studio.svg?style=social)](https://github.com/beekeeper-studio/beekeeper-studio) |   Yes   |  
+| [Beekeeper Studio](https://www.beekeeperstudio.io/)  [![Beekeeper Studio](https://github.com/beekeeper-studio.png?size=20)](https://www.beekeeperstudio.io/) | [![Beekeeper Studio](https://img.shields.io/github/stars/beekeeper-studio/beekeeper-studio.svg?style=social)](https://github.com/beekeeper-studio/beekeeper-studio) |   Yes   |
+|                                                    [Dbeaver](https://dbeaver.io/)  [![Dbeaver](https://github.com/dbeaver.png?size=20)](https://dbeaver.io/) | [![Dbeaver](https://img.shields.io/github/stars/dbeaver/dbeaver.svg?style=social)](https://github.com/dbeaver/dbeaver)                                              |    -    |  
 
 ## Scheduling
 Alternatives to: [Calendly](https://calendly.com/)
@@ -602,9 +621,10 @@ Alternatives to: [Twitch](https://www.twitch.tv/)
 ## Team Wiki
 Alternatives to: [Tettra](https://tettra.com/)
 
-|                                                                                                               Open source | Stars                                                                                                                  | Private |
-| ------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------- | :-----: |
-| [Outline](https://www.getoutline.com/)  [![Outline](https://github.com/outline.png?size=20)](https://www.getoutline.com/) | [![Outline](https://img.shields.io/github/stars/outline/outline.svg?style=social)](https://github.com/outline/outline) |   Yes   |  
+|                                                                                                                                Open source | Stars                                                                                                                           | Private |
+| -----------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------ | :-----: |
+| [Docuwiki](https://www.dokuwiki.org/dokuwiki)  [![Docuwiki](https://github.com/splitbrain.png?size=20)](https://www.dokuwiki.org/dokuwiki) | [![Docuwiki](https://img.shields.io/github/stars/splitbrain/dokuwiki.svg?style=social)](https://github.com/splitbrain/dokuwiki) |    -    |
+|                  [Outline](https://www.getoutline.com/)  [![Outline](https://github.com/outline.png?size=20)](https://www.getoutline.com/) | [![Outline](https://img.shields.io/github/stars/outline/outline.svg?style=social)](https://github.com/outline/outline)          |   Yes   |  
 
 ## Timeseries database
 Alternatives to: [Kdb+](https://kx.com/developers/)
