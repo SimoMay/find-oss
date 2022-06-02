@@ -503,6 +503,13 @@ Alternatives to: [1Password](https://1password.com/), [Lastpass](https://www.las
 |                     [Padloc](https://padloc.app/)  [![Padloc](https://github.com/padloc.png?size=20)](https://padloc.app/) | [![Padloc](https://img.shields.io/github/stars/padloc/padloc.svg?style=social)](https://github.com/padloc/padloc)                                |   Yes   |
 |   [Passbolt](https://www.passbolt.com/)  [![Passbolt](https://github.com/passbolt.png?size=20)](https://www.passbolt.com/) | [![Passbolt](https://img.shields.io/github/stars/passbolt/passbolt_api.svg?style=social)](https://github.com/passbolt/passbolt_api)              |   Yes   |  
 
+## Personal Finance
+Alternatives to: [YouNeedaBudget (YNAB)](https://www.youneedabudget.com/)
+
+|                               Open source | Stars                                                                                                                               | Private |
+| ----------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------- | :-----: |
+| [Actualbudget](https://actualbudget.com/) | [![Actualbudget](https://img.shields.io/github/stars/actualbudget/actual.svg?style=social)](https://github.com/actualbudget/actual) |    -    |  
+
 ## Photo sharing platform
 Alternatives to: [Instagram](https://www.instagram.com/)
 
