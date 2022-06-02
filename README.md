@@ -215,7 +215,8 @@ Alternatives to: [Google Chrome](https://www.google.com/chrome/index.html)
 
 |                                                                                                       Open source | Stars                                                                                                                                | Private |
 | ----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------- | :-----: |
-| [Brave Browser](https://brave.com/)  [![Brave Browser](https://github.com/brave.png?size=20)](https://brave.com/) | [![Brave Browser](https://img.shields.io/github/stars/brave/brave-browser.svg?style=social)](https://github.com/brave/brave-browser) |   Yes   |  
+| [Brave Browser](https://brave.com/)  [![Brave Browser](https://github.com/brave.png?size=20)](https://brave.com/) | [![Brave Browser](https://img.shields.io/github/stars/brave/brave-browser.svg?style=social)](https://github.com/brave/brave-browser) |   Yes   |
+|                                                                 [Firefox](https://www.mozilla.org/en-US/firefox/) | [Repo](https://hg.mozilla.org/mozilla-central/)                                                                                      |   Yes   |  
 
 ## Document editor
 Alternatives to: [Google Docs](https://docs.google.com/)
@@ -402,7 +403,8 @@ Alternatives to: [Emby](https://emby.media/), [Plex](https://www.plex.tv/)
 
 |                                                                                                      Open source | Stars                                                                                                                       | Private |
 | ---------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------- | :-----: |
-| [Jellyfin](https://jellyfin.org/)  [![Jellyfin](https://github.com/jellyfin.png?size=20)](https://jellyfin.org/) | [![Jellyfin](https://img.shields.io/github/stars/jellyfin/jellyfin.svg?style=social)](https://github.com/jellyfin/jellyfin) |    -    |  
+| [Jellyfin](https://jellyfin.org/)  [![Jellyfin](https://github.com/jellyfin.png?size=20)](https://jellyfin.org/) | [![Jellyfin](https://img.shields.io/github/stars/jellyfin/jellyfin.svg?style=social)](https://github.com/jellyfin/jellyfin) |    -    |
+|                       [Kodi](https://kodi.tv/)  [![Kodi](https://github.com/xbmc.png?size=20)](https://kodi.tv/) | [![Kodi](https://img.shields.io/github/stars/xbmc/xbmc.svg?style=social)](https://github.com/xbmc/xbmc)                     |    -    |  
 
 ## Messaging
 Alternatives to: [Discord](https://discord.com/), [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software), [Slack](https://slack.com/)
@@ -410,6 +412,7 @@ Alternatives to: [Discord](https://discord.com/), [Microsoft Teams](https://www.
 |                                                                                                                Open source | Stars                                                                                                                                               | Private |
 | -------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------- | :-----: |
 |                [Element](https://element.io/)  [![Element](https://github.com/vector-im.png?size=20)](https://element.io/) | [![Element](https://img.shields.io/github/stars/vector-im/element-web.svg?style=social)](https://github.com/vector-im/element-web)                  |   Yes   |
+|           [Fosscord](https://fosscord.com/)  [![Fosscord](https://github.com/fosscord.png?size=20)](https://fosscord.com/) | [![Fosscord](https://img.shields.io/github/stars/fosscord/fosscord.svg?style=social)](https://github.com/fosscord/fosscord)                         |    -    |
 | [Mattermost](https://mattermost.com/)  [![Mattermost](https://github.com/mattermost.png?size=20)](https://mattermost.com/) | [![Mattermost](https://img.shields.io/github/stars/mattermost/mattermost-server.svg?style=social)](https://github.com/mattermost/mattermost-server) |   Yes   |
 |               [Revolt](https://revolt.chat/)  [![Revolt](https://github.com/revoltchat.png?size=20)](https://revolt.chat/) | [![Revolt](https://img.shields.io/github/stars/revoltchat/revolt.svg?style=social)](https://github.com/revoltchat/revolt)                           |    -    |
 |     [Rocket.chat](https://rocket.chat/)  [![Rocket.chat](https://github.com/RocketChat.png?size=20)](https://rocket.chat/) | [![Rocket.chat](https://img.shields.io/github/stars/RocketChat/Rocket.Chat.svg?style=social)](https://github.com/RocketChat/Rocket.Chat)            |   Yes   |
