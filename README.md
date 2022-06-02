@@ -13,12 +13,20 @@ Alternatives to: [Gitbook](https://www.gitbook.com/), [ReadMe](https://readme.co
 | ---------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------- | :-----: |
 | [Docusaurus](https://docusaurus.io/)  [![Docusaurus](https://github.com/facebook.png?size=20)](https://docusaurus.io/) | [![Docusaurus](https://img.shields.io/github/stars/facebook/docusaurus.svg?style=social)](https://github.com/facebook/docusaurus) |    -    |  
 
+## API Gateway
+Alternatives to: [Apigee](https://cloud.google.com/apigee)
+
+|                                                                                                                        Open source | Stars                                                                                                                    | Private |
+| ---------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------- | :-----: |
+| [Apache APISIX](https://apisix.apache.org/)  [![Apache APISIX](https://github.com/apache.png?size=20)](https://apisix.apache.org/) | [![Apache APISIX](https://img.shields.io/github/stars/apache/apisix.svg?style=social)](https://github.com/apache/apisix) |   Yes   |  
+
 ## API Platform
 Alternatives to: [Postman](https://www.postman.com/)
 
-|                                                                                                              Open source | Stars                                                                                                                                 | Private |
-| -----------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------ | :-----: |
-| [Hoppscotch](https://hoppscotch.io/)  [![Hoppscotch](https://github.com/hoppscotch.png?size=20)](https://hoppscotch.io/) | [![Hoppscotch](https://img.shields.io/github/stars/hoppscotch/hoppscotch.svg?style=social)](https://github.com/hoppscotch/hoppscotch) |   Yes   |  
+|                                                                                                               Open source | Stars                                                                                                                                 | Private |
+| ------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------ | :-----: |
+| [Fusio](https://www.fusio-project.org/)  [![Fusio](https://github.com/apioo.png?size=20)](https://www.fusio-project.org/) | [![Fusio](https://img.shields.io/github/stars/apioo/fusio.svg?style=social)](https://github.com/apioo/fusio)                          |   Yes   |
+|  [Hoppscotch](https://hoppscotch.io/)  [![Hoppscotch](https://github.com/hoppscotch.png?size=20)](https://hoppscotch.io/) | [![Hoppscotch](https://img.shields.io/github/stars/hoppscotch/hoppscotch.svg?style=social)](https://github.com/hoppscotch/hoppscotch) |   Yes   |  
 
 ## Accounting
 Alternatives to: [Xero](https://www.xero.com/)
@@ -42,6 +50,7 @@ Alternatives to: [Auth0](https://auth0.com/), [Firebase Authentication](null), [
 |                                                                                                                    Open source | Stars                                                                                                                                                       | Private |
 | -----------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----: |
 |      [Authentik](https://goauthentik.io/)  [![Authentik](https://github.com/goauthentik.png?size=20)](https://goauthentik.io/) | [![Authentik](https://img.shields.io/github/stars/goauthentik/authentik.svg?style=social)](https://github.com/goauthentik/authentik)                        |    -    |
+|                         [BoxyHQ](https://boxyhq.com/)  [![BoxyHQ](https://github.com/boxyhq.png?size=20)](https://boxyhq.com/) | [![BoxyHQ](https://img.shields.io/github/stars/boxyhq/jackson.svg?style=social)](https://github.com/boxyhq/jackson)                                         |    -    |
 |                         [Cerbos](https://cerbos.dev/)  [![Cerbos](https://github.com/cerbos.png?size=20)](https://cerbos.dev/) | [![Cerbos](https://img.shields.io/github/stars/cerbos/cerbos.svg?style=social)](https://github.com/cerbos/cerbos)                                           |   Yes   |
 |       [FusionAuth](https://fusionauth.io/)  [![FusionAuth](https://github.com/FusionAuth.png?size=20)](https://fusionauth.io/) | [![FusionAuth](https://img.shields.io/github/stars/FusionAuth/fusionauth-containers.svg?style=social)](https://github.com/FusionAuth/fusionauth-containers) |   Yes   |
 |     [Keycloak](https://www.cloud-iam.com/)  [![Keycloak](https://github.com/keycloak.png?size=20)](https://www.cloud-iam.com/) | [![Keycloak](https://img.shields.io/github/stars/keycloak/keycloak.svg?style=social)](https://github.com/keycloak/keycloak)                                 |   Yes   |
@@ -59,6 +68,7 @@ Alternatives to: [Firebase](https://firebase.google.com/)
 |                       [Appwrite](https://appwrite.io/)  [![Appwrite](https://github.com/appwrite.png?size=20)](https://appwrite.io/) | [![Appwrite](https://img.shields.io/github/stars/appwrite/appwrite.svg?style=social)](https://github.com/appwrite/appwrite)                |   Yes   |
 | [Kuzzle](https://kuzzle.io/kuzzle-backend/)  [![Kuzzle](https://github.com/kuzzleio.png?size=20)](https://kuzzle.io/kuzzle-backend/) | [![Kuzzle](https://img.shields.io/github/stars/kuzzleio/kuzzle.svg?style=social)](https://github.com/kuzzleio/kuzzle)                      |   Yes   |
 |                                      [Nhost](https://nhost.io/)  [![Nhost](https://github.com/nhost.png?size=20)](https://nhost.io/) | [![Nhost](https://img.shields.io/github/stars/nhost/nhost.svg?style=social)](https://github.com/nhost/nhost)                               |   Yes   |
+|                                   [Otomi](https://otomi.io/)  [![Otomi](https://github.com/redkubes.png?size=20)](https://otomi.io/) | [![Otomi](https://img.shields.io/github/stars/redkubes/otomi-core.svg?style=social)](https://github.com/redkubes/otomi-core)               |    -    |
 |                     [Supabase](https://supabase.com/)  [![Supabase](https://github.com/supabase.png?size=20)](https://supabase.com/) | [![Supabase](https://img.shields.io/github/stars/supabase/supabase.svg?style=social)](https://github.com/supabase/supabase)                |   Yes   |  
 
 ## Business Intelligence
@@ -102,6 +112,13 @@ Alternatives to: [AWS Config](https://aws.amazon.com/config/), [AWS GuardDuty](h
 |                                                                                                              Open source | Stars                                                                                                                                 | Private |
 | -----------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------ | :-----: |
 | [CloudQuery](https://cloudquery.io/)  [![CloudQuery](https://github.com/cloudquery.png?size=20)](https://cloudquery.io/) | [![CloudQuery](https://img.shields.io/github/stars/cloudquery/cloudquery.svg?style=social)](https://github.com/cloudquery/cloudquery) |   Yes   |  
+
+## Cloud Data Warehouse
+Alternatives to: [Snowflake](https://www.snowflake.com/)
+
+|                                                                                                        Open source | Stars                                                                                                                               | Private |
+| -----------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------- | :-----: |
+| [Databend](https://databend.rs/)  [![Databend](https://github.com/datafuselabs.png?size=20)](https://databend.rs/) | [![Databend](https://img.shields.io/github/stars/datafuselabs/databend.svg?style=social)](https://github.com/datafuselabs/databend) |    -    |  
 
 ## Cloud Storage
 Alternatives to: [Amazon S3](https://aws.amazon.com/s3/)
@@ -171,10 +188,18 @@ Alternatives to: [AWS Config](https://aws.amazon.com/config/), [AWS GuardDuty](h
 ## Database as a Service (DBaaS)
 Alternatives to: [Amazon Aurora](https://aws.amazon.com/rds/aurora/), [Firebase Database](null), [Google Cloud Spanner](https://cloud.google.com/spanner/)
 
-|                                                                                                       Open source | Stars                                                                                                            | Private |
-| ----------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------- | :-----: |
-| [PingCAP](https://en.pingcap.com/)  [![PingCAP](https://github.com/pingcap.png?size=20)](https://en.pingcap.com/) | [![PingCAP](https://img.shields.io/github/stars/pingcap/tidb.svg?style=social)](https://github.com/pingcap/tidb) |   Yes   |
-|                                                                                         [Supabase Postgres](null) |                                                                                                                  |   Yes   |  
+|                                                                                                              Open source | Stars                                                                                                                             | Private |
+| -----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------- | :-----: |
+|        [PingCAP](https://en.pingcap.com/)  [![PingCAP](https://github.com/pingcap.png?size=20)](https://en.pingcap.com/) | [![PingCAP](https://img.shields.io/github/stars/pingcap/tidb.svg?style=social)](https://github.com/pingcap/tidb)                  |   Yes   |
+|                                                                                                [Supabase Postgres](null) |                                                                                                                                   |   Yes   |
+| [Yugabyte](https://www.yugabyte.com/)  [![Yugabyte](https://github.com/yugabyte.png?size=20)](https://www.yugabyte.com/) | [![Yugabyte](https://img.shields.io/github/stars/yugabyte/yugabyte-db.svg?style=social)](https://github.com/yugabyte/yugabyte-db) |   Yes   |  
+
+## Dependency Vulnerability Scanner
+Alternatives to: [GitHub Dependabot](https://github.com/dependabot), [Snyk](https://snyk.io/)
+
+|                                                                                                              Open source | Stars                                                                                                                          | Private |
+| -----------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------- | :-----: |
+| [LunaTrace](https://www.lunasec.io/)  [![LunaTrace](https://github.com/lunasec-io.png?size=20)](https://www.lunasec.io/) | [![LunaTrace](https://img.shields.io/github/stars/lunasec-io/lunasec.svg?style=social)](https://github.com/lunasec-io/lunasec) |   Yes   |  
 
 ## Design
 Alternatives to: [Figma](https://www.figma.com/)
@@ -226,6 +251,7 @@ Alternatives to: [Fivetran](https://fivetran.com/)
 | ------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------- | :-----: |
 |         [Airbyte](https://airbyte.io/)  [![Airbyte](https://github.com/airbytehq.png?size=20)](https://airbyte.io/) | [![Airbyte](https://img.shields.io/github/stars/airbytehq/airbyte.svg?style=social)](https://github.com/airbytehq/airbyte)   |   Yes   |
 |        [Dagster](https://dagster.io/)  [![Dagster](https://github.com/dagster-io.png?size=20)](https://dagster.io/) | [![Dagster](https://img.shields.io/github/stars/dagster-io/dagster.svg?style=social)](https://github.com/dagster-io/dagster) |   Yes   |
+|             [Kestra](https://kestra.io/)  [![Kestra](https://github.com/kestra-io.png?size=20)](https://kestra.io/) | [![Kestra](https://img.shields.io/github/stars/kestra-io/kestra.svg?style=social)](https://github.com/kestra-io/kestra)      |    -    |
 |   [Orchest](https://www.orchest.io/)  [![Orchest](https://github.com/orchest.png?size=20)](https://www.orchest.io/) | [![Orchest](https://img.shields.io/github/stars/orchest/orchest.svg?style=social)](https://github.com/orchest/orchest)       |   Yes   |
 | [Prefect](https://www.prefect.io/)  [![Prefect](https://github.com/prefecthq.png?size=20)](https://www.prefect.io/) | [![Prefect](https://img.shields.io/github/stars/prefecthq/prefect.svg?style=social)](https://github.com/prefecthq/prefect)   |   Yes   |  
 
@@ -288,9 +314,9 @@ Alternatives to: [Dropbox](https://www.dropbox.com/), [Google Drive](https://dri
 ## Financial Service
 Alternatives to: [Bloomberg](https://www.bloomberg.com/)
 
-|                                                                  Open source | Stars                                                                                                                                                                     | Private |
-| ---------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-----: |
-| [Gamestonk Terminal](https://gamestonkterminal.github.io/GamestonkTerminal/) | [![Gamestonk Terminal](https://img.shields.io/github/stars/GamestonkTerminal/GamestonkTerminal.svg?style=social)](https://github.com/GamestonkTerminal/GamestonkTerminal) |   Yes   |  
+|                                                        Open source | Stars                                                                                                                                                     | Private |
+| -----------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----: |
+| [OpenBBTerminal](https://openbb-finance.github.io/OpenBBTerminal/) | [![OpenBBTerminal](https://img.shields.io/github/stars/OpenBB-finance/OpenBBTerminal.svg?style=social)](https://github.com/OpenBB-finance/OpenBBTerminal) |   Yes   |  
 
 ## Forum Software
 Alternatives to: [Circle](https://circle.so/), [Tribe](https://tribe.so/)
@@ -356,7 +382,8 @@ Alternatives to: [Papertrail](https://www.papertrail.com/), [Splunk](https://www
 |                                                                                                          Open source | Stars                                                                                                                                    | Private |
 | -------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------- | :-----: |
 |       [GoAccess](https://goaccess.io/)  [![GoAccess](https://github.com/allinurl.png?size=20)](https://goaccess.io/) | [![GoAccess](https://img.shields.io/github/stars/allinurl/goaccess.svg?style=social)](https://github.com/allinurl/goaccess)              |    -    |
-| [Graylog](https://www.graylog.org/)  [![Graylog](https://github.com/Graylog2.png?size=20)](https://www.graylog.org/) | [![Graylog](https://img.shields.io/github/stars/Graylog2/graylog2-server.svg?style=social)](https://github.com/Graylog2/graylog2-server) |   Yes   |  
+| [Graylog](https://www.graylog.org/)  [![Graylog](https://github.com/Graylog2.png?size=20)](https://www.graylog.org/) | [![Graylog](https://img.shields.io/github/stars/Graylog2/graylog2-server.svg?style=social)](https://github.com/Graylog2/graylog2-server) |   Yes   |
+|   [Quickwit](https://quickwit.io/)  [![Quickwit](https://github.com/quickwit-oss.png?size=20)](https://quickwit.io/) | [![Quickwit](https://img.shields.io/github/stars/quickwit-oss/quickwit.svg?style=social)](https://github.com/quickwit-oss/quickwit)      |    -    |  
 
 ## ML Ops
 Alternatives to: [AWS SageMaker](https://aws.amazon.com/sagemaker/), [BigQuery ML](https://cloud.google.com/bigquery-ml/docs), [Google Vertex AI](https://cloud.google.com/vertex-ai)
@@ -451,6 +478,7 @@ Alternatives to: [AWS Lookout](https://aws.amazon.com/lookout-for-metrics/), [An
 |                            [Promotheus](https://prometheus.io/)  [![Promotheus](https://github.com/prometheus.png?size=20)](https://prometheus.io/) | [![Promotheus](https://img.shields.io/github/stars/prometheus/prometheus.svg?style=social)](https://github.com/prometheus/prometheus)                          |    -    |
 |                                             [Sentry](https://sentry.io/)  [![Sentry](https://github.com/getsentry.png?size=20)](https://sentry.io/) | [![Sentry](https://img.shields.io/github/stars/getsentry/sentry.svg?style=social)](https://github.com/getsentry/sentry)                                        |   Yes   |
 |                                                [SigNoz](https://signoz.io/)  [![SigNoz](https://github.com/signoz.png?size=20)](https://signoz.io/) | [![SigNoz](https://img.shields.io/github/stars/signoz/signoz.svg?style=social)](https://github.com/signoz/signoz)                                              |   Yes   |
+|                                         [Uptrace](https://uptrace.dev/)  [![Uptrace](https://github.com/uptrace.png?size=20)](https://uptrace.dev/) | [![Uptrace](https://img.shields.io/github/stars/uptrace/uptrace.svg?style=social)](https://github.com/uptrace/uptrace)                                         |   Yes   |
 | [VictoriaMetrics](https://victoriametrics.com/)  [![VictoriaMetrics](https://github.com/VictoriaMetrics.png?size=20)](https://victoriametrics.com/) | [![VictoriaMetrics](https://img.shields.io/github/stars/VictoriaMetrics/VictoriaMetrics.svg?style=social)](https://github.com/VictoriaMetrics/VictoriaMetrics) |   Yes   |  
 
 ## Online interactive forms
@@ -458,6 +486,7 @@ Alternatives to: [Typeform](https://www.typeform.com/product/)
 
 |                                                                                                                                          Open source | Stars                                                                                                                                                               | Private |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-----: |
+|                                          [FormKit](https://formkit.com/)  [![FormKit](https://github.com/formkit.png?size=20)](https://formkit.com/) | [![FormKit](https://img.shields.io/github/stars/formkit/formkit.svg?style=social)](https://github.com/formkit/formkit)                                              |    -    |
 |                                     [OhMyForm](https://ohmyform.com/)  [![OhMyForm](https://github.com/ohmyform.png?size=20)](https://ohmyform.com/) | [![OhMyForm](https://img.shields.io/github/stars/ohmyform/ohmyform.svg?style=social)](https://github.com/ohmyform/ohmyform)                                         |    -    |
 | [Super Easy Forms](https://supereasyforms.com/)  [![Super Easy Forms](https://github.com/super-easy-forms.png?size=20)](https://supereasyforms.com/) | [![Super Easy Forms](https://img.shields.io/github/stars/super-easy-forms/super-easy-forms.svg?style=social)](https://github.com/super-easy-forms/super-easy-forms) |    -    |  
 
@@ -530,6 +559,7 @@ Alternatives to: [Asana](https://asana.com/), [Jira](https://www.atlassian.com/s
 |    [OpenProject](https://www.openproject.org/)  [![OpenProject](https://github.com/opf.png?size=20)](https://www.openproject.org/) | [![OpenProject](https://img.shields.io/github/stars/opf/openproject.svg?style=social)](https://github.com/opf/openproject)                         |   Yes   |
 | [Restyaboard](https://restya.com/board)  [![Restyaboard](https://github.com/RestyaPlatform.png?size=20)](https://restya.com/board) | [![Restyaboard](https://img.shields.io/github/stars/RestyaPlatform/board.svg?style=social)](https://github.com/RestyaPlatform/board)               |   Yes   |
 |                [Taiga](https://www.taiga.io/)  [![Taiga](https://github.com/kaleidos-ventures.png?size=20)](https://www.taiga.io/) | [![Taiga](https://img.shields.io/github/stars/kaleidos-ventures/taiga-docker.svg?style=social)](https://github.com/kaleidos-ventures/taiga-docker) |   Yes   |
+|                       [Vikunja](https://vikunja.io/)  [![Vikunja](https://github.com/go-vikunja.png?size=20)](https://vikunja.io/) | [![Vikunja](https://img.shields.io/github/stars/go-vikunja/api.svg?style=social)](https://github.com/go-vikunja/api)                               |   Yes   |
 |                      [Wekan](https://wekan.github.io/)  [![Wekan](https://github.com/wekan.png?size=20)](https://wekan.github.io/) | [![Wekan](https://img.shields.io/github/stars/wekan/wekan.svg?style=social)](https://github.com/wekan/wekan)                                       |    -    |  
 
 ## Raw Image Processing
@@ -548,7 +578,8 @@ Alternatives to: [Teamviewer](https://www.teamviewer.com/)
 |                  [Apache Guacamole](https://guacamole.apache.org/)  [![Apache Guacamole](https://github.com/apache.png?size=20)](https://guacamole.apache.org/) | [![Apache Guacamole](https://img.shields.io/github/stars/apache/guacamole-server.svg?style=social)](https://github.com/apache/guacamole-server) |    -    |
 | [MeshCentral](https://www.meshcommander.com/meshcentral2)  [![MeshCentral](https://github.com/Ylianst.png?size=20)](https://www.meshcommander.com/meshcentral2) | [![MeshCentral](https://img.shields.io/github/stars/Ylianst/MeshCentral.svg?style=social)](https://github.com/Ylianst/MeshCentral)              |    -    |
 |                  [Myrtille](https://cedrozor.github.io/myrtille/)  [![Myrtille](https://github.com/cedrozor.png?size=20)](https://cedrozor.github.io/myrtille/) | [![Myrtille](https://img.shields.io/github/stars/cedrozor/myrtille.svg?style=social)](https://github.com/cedrozor/myrtille)                     |    -    |
-|                                         [Remotely](https://app.remotely.one/)  [![Remotely](https://github.com/immense.png?size=20)](https://app.remotely.one/) | [![Remotely](https://img.shields.io/github/stars/immense/Remotely.svg?style=social)](https://github.com/immense/Remotely)                       |    -    |  
+|                                         [Remotely](https://app.remotely.one/)  [![Remotely](https://github.com/immense.png?size=20)](https://app.remotely.one/) | [![Remotely](https://img.shields.io/github/stars/immense/Remotely.svg?style=social)](https://github.com/immense/Remotely)                       |    -    |
+|                                                [RustDesk](https://rustdesk.com/)  [![RustDesk](https://github.com/rustdesk.png?size=20)](https://rustdesk.com/) | [![RustDesk](https://img.shields.io/github/stars/rustdesk/rustdesk.svg?style=social)](https://github.com/rustdesk/rustdesk)                     |    -    |  
 
 ## Reverse ETL
 Alternatives to: [Hightouch](https://www.hightouch.io/), [NewRelic](https://newrelic.com/)
@@ -711,7 +742,8 @@ Alternatives to: [Integromat](https://www.integromat.com/), [Zapier](https://zap
 |                                                              [N8N](https://n8n.io/)  [![N8N](https://github.com/n8n-io.png?size=20)](https://n8n.io/) | [![N8N](https://img.shields.io/github/stars/n8n-io/n8n.svg?style=social)](https://github.com/n8n-io/n8n)                                                  |   Yes   |
 |                                        [Node-RED](https://nodered.org/)  [![Node-RED](https://github.com/node-red.png?size=20)](https://nodered.org/) | [![Node-RED](https://img.shields.io/github/stars/node-red/node-red.svg?style=social)](https://github.com/node-red/node-red)                               |    -    |
 |                               [Pipedream](https://pipedream.com/)  [![Pipedream](https://github.com/PipedreamHQ.png?size=20)](https://pipedream.com/) | [![Pipedream](https://img.shields.io/github/stars/PipedreamHQ/pipedream.svg?style=social)](https://github.com/PipedreamHQ/pipedream)                      |   Yes   |
-|                                      [Temporal](https://temporal.io/)  [![Temporal](https://github.com/temporalio.png?size=20)](https://temporal.io/) | [![Temporal](https://img.shields.io/github/stars/temporalio/temporal.svg?style=social)](https://github.com/temporalio/temporal)                           |   Yes   |  
+|                                      [Temporal](https://temporal.io/)  [![Temporal](https://github.com/temporalio.png?size=20)](https://temporal.io/) | [![Temporal](https://img.shields.io/github/stars/temporalio/temporal.svg?style=social)](https://github.com/temporalio/temporal)                           |   Yes   |
+|                       [Windmill](https://docs.windmill.dev/)  [![Windmill](https://github.com/windmill-labs.png?size=20)](https://docs.windmill.dev/) | [![Windmill](https://img.shields.io/github/stars/windmill-labs/windmill.svg?style=social)](https://github.com/windmill-labs/windmill)                     |   Yes   |  
 
 ## Writing platform
 Alternatives to: [Medium](https://medium.com/)
