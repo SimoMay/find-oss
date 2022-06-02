@@ -333,7 +333,8 @@ Alternatives to: [Unity](https://unity.com/), [Unreal Engine](https://www.unreal
 
 |                                                                                                         Open source | Stars                                                                                                                    | Private |
 | ------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------- | :-----: |
-| [Godot](https://godotengine.org/)  [![Godot](https://github.com/godotengine.png?size=20)](https://godotengine.org/) | [![Godot](https://img.shields.io/github/stars/godotengine/godot.svg?style=social)](https://github.com/godotengine/godot) |    -    |  
+| [Godot](https://godotengine.org/)  [![Godot](https://github.com/godotengine.png?size=20)](https://godotengine.org/) | [![Godot](https://img.shields.io/github/stars/godotengine/godot.svg?style=social)](https://github.com/godotengine/godot) |    -    |
+|                   [Heaps](https://heaps.io/)  [![Heaps](https://github.com/HeapsIO.png?size=20)](https://heaps.io/) | [![Heaps](https://img.shields.io/github/stars/HeapsIO/heaps.svg?style=social)](https://github.com/HeapsIO/heaps)         |    -    |  
 
 ## Graph database
 Alternatives to: [Amazon Neptune](https://aws.amazon.com/neptune/), [TigerGraph](https://www.tigergraph.com/)
@@ -410,6 +411,7 @@ Alternatives to: [Discord](https://discord.com/), [Microsoft Teams](https://www.
 | -------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------- | :-----: |
 |                [Element](https://element.io/)  [![Element](https://github.com/vector-im.png?size=20)](https://element.io/) | [![Element](https://img.shields.io/github/stars/vector-im/element-web.svg?style=social)](https://github.com/vector-im/element-web)                  |   Yes   |
 | [Mattermost](https://mattermost.com/)  [![Mattermost](https://github.com/mattermost.png?size=20)](https://mattermost.com/) | [![Mattermost](https://img.shields.io/github/stars/mattermost/mattermost-server.svg?style=social)](https://github.com/mattermost/mattermost-server) |   Yes   |
+|               [Revolt](https://revolt.chat/)  [![Revolt](https://github.com/revoltchat.png?size=20)](https://revolt.chat/) | [![Revolt](https://img.shields.io/github/stars/revoltchat/revolt.svg?style=social)](https://github.com/revoltchat/revolt)                           |    -    |
 |     [Rocket.chat](https://rocket.chat/)  [![Rocket.chat](https://github.com/RocketChat.png?size=20)](https://rocket.chat/) | [![Rocket.chat](https://img.shields.io/github/stars/RocketChat/Rocket.Chat.svg?style=social)](https://github.com/RocketChat/Rocket.Chat)            |   Yes   |
 |                       [Twake](https://twake.app/)  [![Twake](https://github.com/linagora.png?size=20)](https://twake.app/) | [![Twake](https://img.shields.io/github/stars/linagora/Twake.svg?style=social)](https://github.com/linagora/Twake)                                  |   Yes   |
 |                      [Wire](https://wire.com/en/)  [![Wire](https://github.com/wireapp.png?size=20)](https://wire.com/en/) | [![Wire](https://img.shields.io/github/stars/wireapp/wire.svg?style=social)](https://github.com/wireapp/wire)                                       |   Yes   |
@@ -660,10 +662,11 @@ Alternatives to: [Twitch](https://www.twitch.tv/)
 ## Team Wiki
 Alternatives to: [Tettra](https://tettra.com/)
 
-|                                                                                                                                Open source | Stars                                                                                                                           | Private |
-| -----------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------ | :-----: |
-| [Docuwiki](https://www.dokuwiki.org/dokuwiki)  [![Docuwiki](https://github.com/splitbrain.png?size=20)](https://www.dokuwiki.org/dokuwiki) | [![Docuwiki](https://img.shields.io/github/stars/splitbrain/dokuwiki.svg?style=social)](https://github.com/splitbrain/dokuwiki) |    -    |
-|                  [Outline](https://www.getoutline.com/)  [![Outline](https://github.com/outline.png?size=20)](https://www.getoutline.com/) | [![Outline](https://img.shields.io/github/stars/outline/outline.svg?style=social)](https://github.com/outline/outline)          |   Yes   |  
+|                                                                                                                                Open source | Stars                                                                                                                                  | Private |
+| -----------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------- | :-----: |
+|     [BookStack](https://www.bookstackapp.com/)  [![BookStack](https://github.com/BookStackApp.png?size=20)](https://www.bookstackapp.com/) | [![BookStack](https://img.shields.io/github/stars/BookStackApp/BookStack.svg?style=social)](https://github.com/BookStackApp/BookStack) |    -    |
+| [Docuwiki](https://www.dokuwiki.org/dokuwiki)  [![Docuwiki](https://github.com/splitbrain.png?size=20)](https://www.dokuwiki.org/dokuwiki) | [![Docuwiki](https://img.shields.io/github/stars/splitbrain/dokuwiki.svg?style=social)](https://github.com/splitbrain/dokuwiki)        |    -    |
+|                  [Outline](https://www.getoutline.com/)  [![Outline](https://github.com/outline.png?size=20)](https://www.getoutline.com/) | [![Outline](https://img.shields.io/github/stars/outline/outline.svg?style=social)](https://github.com/outline/outline)                 |   Yes   |  
 
 ## Timeseries database
 Alternatives to: [Kdb+](https://kx.com/developers/)
