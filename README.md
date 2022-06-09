@@ -599,7 +599,6 @@ Alternatives to: [Hightouch](https://www.hightouch.io/), [NewRelic](https://newr
 
 |                                                                                                                   Open source | Stars                                                                                                                            | Private |
 | ----------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------- | :-----: |
-|                   [Castled](https://castled.io/)  [![Castled](https://github.com/castledio.png?size=20)](https://castled.io/) | [![Castled](https://img.shields.io/github/stars/castledio/castled.svg?style=social)](https://github.com/castledio/castled)       |   Yes   |
 | [Grouparoo](https://www.grouparoo.com/)  [![Grouparoo](https://github.com/grouparoo.png?size=20)](https://www.grouparoo.com/) | [![Grouparoo](https://img.shields.io/github/stars/grouparoo/grouparoo.svg?style=social)](https://github.com/grouparoo/grouparoo) |   Yes   |  
 
 ## Robotic Process Automation (RPA)
@@ -742,6 +741,7 @@ Alternatives to: [Google Analytics](https://analytics.google.com/)
 |                                                             [Matomo](https://matomo.org/)  [![Matomo](https://github.com/matomo-org.png?size=20)](https://matomo.org/) | [![Matomo](https://img.shields.io/github/stars/matomo-org/matomo.svg?style=social)](https://github.com/matomo-org/matomo)                                                     |   Yes   |
 | [Open Web Analytics](https://www.openwebanalytics.com/)  [![Open Web Analytics](https://github.com/Open-Web-Analytics.png?size=20)](https://www.openwebanalytics.com/) | [![Open Web Analytics](https://img.shields.io/github/stars/Open-Web-Analytics/Open-Web-Analytics.svg?style=social)](https://github.com/Open-Web-Analytics/Open-Web-Analytics) |    -    |
 |                                                    [Plausible](https://plausible.io/)  [![Plausible](https://github.com/plausible.png?size=20)](https://plausible.io/) | [![Plausible](https://img.shields.io/github/stars/plausible/analytics.svg?style=social)](https://github.com/plausible/analytics)                                              |   Yes   |
+|                                                                 [Scale8](https://scale8.com/)  [![Scale8](https://github.com/scale8.png?size=20)](https://scale8.com/) | [![Scale8](https://img.shields.io/github/stars/scale8/scale8.svg?style=social)](https://github.com/scale8/scale8)                                                             |   Yes   |
 |                                                                      [Umami](https://umami.is/)  [![Umami](https://github.com/mikecao.png?size=20)](https://umami.is/) | [![Umami](https://img.shields.io/github/stars/mikecao/umami.svg?style=social)](https://github.com/mikecao/umami)                                                              |   Yes   |  
 
 ## Workflow automation
