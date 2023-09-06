@@ -294,6 +294,13 @@ Alternatives to: [AWS Kendra](https://aws.amazon.com/kendra/), [Algolia](https:/
 |                 [Zinc Labs's Zinc](https://www.zinclabs.io/)  [![Zinc Labs's Zinc](https://github.com/prabhatsharma.png?size=20)](https://www.zinclabs.io/) | [![Zinc Labs's Zinc](https://img.shields.io/github/stars/prabhatsharma/zinc.svg?style=social)](https://github.com/prabhatsharma/zinc)                |   Yes   |
 |                                        [deepset](https://www.deepset.ai/)  [![deepset](https://github.com/deepset-ai.png?size=20)](https://www.deepset.ai/) | [![deepset](https://img.shields.io/github/stars/deepset-ai/haystack.svg?style=social)](https://github.com/deepset-ai/haystack)                       |   Yes   |  
 
+## eSignature
+Alternatives to: [DocuSign](https://docusign.com/)
+
+|                                                                                                                      Open source | Stars                                                                                                                                 | Private |
+| -------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------ | :-----: |
+|            [Documenso](https://documenso.com/)  [![Documenso](https://github.com/documenso.png?size=20)](https://documenso.com/) | [![Documenso](https://img.shields.io/github/stars/documenso/documenso.svg?style=social)](https://github.com/documenso/documenso)      |   Yes   |
+
 ## Feature flag and toggle management
 Alternatives to: [LaunchDarkly](https://launchdarkly.com/)
 
