@@ -27,6 +27,7 @@ Alternatives to: [Postman](https://www.postman.com/)
 | ------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------ | :-----: |
 | [Fusio](https://www.fusio-project.org/)  [![Fusio](https://github.com/apioo.png?size=20)](https://www.fusio-project.org/) | [![Fusio](https://img.shields.io/github/stars/apioo/fusio.svg?style=social)](https://github.com/apioo/fusio)                          |   Yes   |
 |  [Hoppscotch](https://hoppscotch.io/)  [![Hoppscotch](https://github.com/hoppscotch.png?size=20)](https://hoppscotch.io/) | [![Hoppscotch](https://img.shields.io/github/stars/hoppscotch/hoppscotch.svg?style=social)](https://github.com/hoppscotch/hoppscotch) |   Yes   |  
+|  [Insomnia](https://insomnia.rest/)  [![Insomnia](https://github.com/Kong.png?size=20)](https://insomnia.rest/) | [![Insomnia](https://img.shields.io/github/stars/Kong/insomnia.svg?style=social)](https://github.com/Kong/insomnia) |   -   |  
 
 ## Accounting
 Alternatives to: [Xero](https://www.xero.com/)
