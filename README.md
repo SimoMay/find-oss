@@ -220,6 +220,13 @@ Alternatives to: [Google Chrome](https://www.google.com/chrome/index.html)
 | [Brave Browser](https://brave.com/)  [![Brave Browser](https://github.com/brave.png?size=20)](https://brave.com/) | [![Brave Browser](https://img.shields.io/github/stars/brave/brave-browser.svg?style=social)](https://github.com/brave/brave-browser) |   Yes   |
 |                                                                 [Firefox](https://www.mozilla.org/en-US/firefox/) | [Repo](https://hg.mozilla.org/mozilla-central/)                                                                                      |   Yes   |  
 
+## Dev Environment Management
+Alternatives to: [GitHub Codespaces](https://github.com/features/codespaces)
+
+|                                                                                                              Open source | Stars                                                                                                                          | Private |
+| -----------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------- | :-----: |
+| [Daytona](https://www.daytona.io/)  [![Daytona](https://github.com/daytonaio.png?size=20)](https://www.daytona.io/) | [![Daytona](https://img.shields.io/github/stars/daytonaio/daytona.svg?style=social)](https://github.com/daytonaio/daytona) |   -   |  
+
 ## Document editor
 Alternatives to: [Google Docs](https://docs.google.com/)
 
