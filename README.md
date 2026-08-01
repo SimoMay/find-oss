@@ -568,6 +568,7 @@ Alternatives to: [Amplitude](https://amplitude.com/), [MixPanel](https://mixpane
 |                                                                                                 Open source | Stars                                                                                                                  | Private |
 | ----------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------- | :-----: |
 | [PostHog](https://posthog.com/)  [![PostHog](https://github.com/PostHog.png?size=20)](https://posthog.com/) | [![PostHog](https://img.shields.io/github/stars/PostHog/posthog.svg?style=social)](https://github.com/PostHog/posthog) |   Yes   |  
+| [Talivia](https://talivia.com/) [![Talivia](https://github.com/talivia-group.png?size=20)](https://talivia.com/) | [![Talivia](https://img.shields.io/github/stars/talivia-group/talivia.svg?style=social)](https://github.com/talivia-group/talivia) | Yes |  
 
 ## Product Feedback
 Alternatives to: [Canny](https://canny.io/)
