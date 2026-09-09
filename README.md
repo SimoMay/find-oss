@@ -555,6 +555,13 @@ Alternatives to: [Heroku](https://www.heroku.com/), [Render](https://render.com/
 | [Space Cloud](https://space-cloud.io/)  [![Space Cloud](https://github.com/spacecloud-io.png?size=20)](https://space-cloud.io/) | [![Space Cloud](https://img.shields.io/github/stars/spacecloud-io/space-cloud.svg?style=social)](https://github.com/spacecloud-io/space-cloud) |   Yes   |
 |                                 [Tsuru](https://tsuru.io/)  [![Tsuru](https://github.com/tsuru.png?size=20)](https://tsuru.io/) | [![Tsuru](https://img.shields.io/github/stars/tsuru/tsuru.svg?style=social)](https://github.com/tsuru/tsuru)                                   |    -    |  
 
+## Point of Sale (POS) and Billing Software
+Alternatives to: [Clover POS](https://www.clover.com/pos-systems), [Shopify POS](https://www.shopify.com/pos), [Square Point of Sale](https://squareup.com/us/en/point-of-sale)
+
+|                                                                                          Open source | Stars                                                                                                                      | Private |
+| ---------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------- | :-----: |
+| [Posnic](https://posnic.io/)  [![Posnic](https://github.com/Posnic.png?size=20)](https://posnic.io/) | [![Posnic](https://img.shields.io/github/stars/Posnic/POS.svg?style=social)](https://github.com/Posnic/POS)                |   Yes   |
+
 ## Presentations
 Alternatives to: [Google Slides](https://www.google.com/slides/about/)
 
