@@ -560,7 +560,7 @@ Alternatives to: [Clover POS](https://www.clover.com/pos-systems), [Shopify POS]
 
 |                                                                                          Open source | Stars                                                                                                                      | Private |
 | ---------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------- | :-----: |
-| [Posnic](https://posnic.io/)  [![Posnic](https://github.com/Posnic.png?size=20)](https://posnic.io/) | [![Posnic](https://img.shields.io/github/stars/Posnic/POS.svg?style=social)](https://github.com/Posnic/POS)                |   Yes   |
+| [Posnic](https://www.posnic.com/)  [![Posnic](https://github.com/Posnic.png?size=20)](https://www.posnic.com/) | [![Posnic](https://img.shields.io/github/stars/Posnic/POS.svg?style=social)](https://github.com/Posnic/POS)                |   Yes   |
 
 ## Presentations
 Alternatives to: [Google Slides](https://www.google.com/slides/about/)
