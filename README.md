@@ -608,7 +608,8 @@ Alternatives to: [Adobe Lightroom](https://lightroom.adobe.com/)
 |                                                                                                                       Open source | Stars                                                                                                                                    | Private |
 | --------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------- | :-----: |
 |      [RawTherapee](https://rawtherapee.com/)  [![RawTherapee](https://github.com/Beep6581.png?size=20)](https://rawtherapee.com/) | [![RawTherapee](https://img.shields.io/github/stars/Beep6581/RawTherapee.svg?style=social)](https://github.com/Beep6581/RawTherapee)     |    -    |
-| [darktable](https://www.darktable.org/)  [![darktable](https://github.com/darktable-org.png?size=20)](https://www.darktable.org/) | [![darktable](https://img.shields.io/github/stars/darktable-org/darktable.svg?style=social)](https://github.com/darktable-org/darktable) |    -    |  
+| [darktable](https://www.darktable.org/)  [![darktable](https://github.com/darktable-org.png?size=20)](https://www.darktable.org/) | [![darktable](https://img.shields.io/github/stars/darktable-org/darktable.svg?style=social)](https://github.com/darktable-org/darktable) |    -    |
+| [LightTable](https://lighttable.app/)  [![LightTable](https://github.com/reville.png?size=20)](https://lighttable.app/) | [![LightTable](https://img.shields.io/github/stars/reville/lighttable-digital-darkroom.svg?style=social)](https://github.com/reville/lighttable-digital-darkroom) |   Yes   |  
 
 ## Remote connectivity
 Alternatives to: [Teamviewer](https://www.teamviewer.com/)
