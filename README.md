@@ -698,6 +698,7 @@ Alternatives to: [Tettra](https://tettra.com/)
 | -----------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------- | :-----: |
 |     [BookStack](https://www.bookstackapp.com/)  [![BookStack](https://github.com/BookStackApp.png?size=20)](https://www.bookstackapp.com/) | [![BookStack](https://img.shields.io/github/stars/BookStackApp/BookStack.svg?style=social)](https://github.com/BookStackApp/BookStack) |    -    |
 | [Docuwiki](https://www.dokuwiki.org/dokuwiki)  [![Docuwiki](https://github.com/splitbrain.png?size=20)](https://www.dokuwiki.org/dokuwiki) | [![Docuwiki](https://img.shields.io/github/stars/splitbrain/dokuwiki.svg?style=social)](https://github.com/splitbrain/dokuwiki)        |    -    |
+|                   [Folio Wiki](https://foliowiki.online)  [![Folio Wiki](https://github.com/evergreen-it-dev.png?size=20)](https://foliowiki.online) | [![Folio Wiki](https://img.shields.io/github/stars/evergreen-it-dev/folio.svg?style=social)](https://github.com/evergreen-it-dev/folio)     |    -    |
 |                  [Outline](https://www.getoutline.com/)  [![Outline](https://github.com/outline.png?size=20)](https://www.getoutline.com/) | [![Outline](https://img.shields.io/github/stars/outline/outline.svg?style=social)](https://github.com/outline/outline)                 |   Yes   |  
 
 ## Timeseries database
