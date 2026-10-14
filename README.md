@@ -277,6 +277,7 @@ Alternatives to: [HubSpot](https://www.hubspot.com/), [Microsoft Dynamics](https
 |                         [Odoo](https://odoo.com/)  [![Odoo](https://github.com/odoo.png?size=20)](https://odoo.com/) | [![Odoo](https://img.shields.io/github/stars/odoo/odoo.svg?style=social)](https://github.com/odoo/odoo)                             |   Yes   |
 | [SuiteCRM](https://suitecrm.com/)  [![SuiteCRM](https://github.com/salesagility.png?size=20)](https://suitecrm.com/) | [![SuiteCRM](https://img.shields.io/github/stars/salesagility/SuiteCRM.svg?style=social)](https://github.com/salesagility/SuiteCRM) |   Yes   |
 |                      [erxes](https://erxes.io/)  [![erxes](https://github.com/erxes.png?size=20)](https://erxes.io/) | [![erxes](https://img.shields.io/github/stars/erxes/erxes.svg?style=social)](https://github.com/erxes/erxes)                        |   Yes   |  
+| [looot CRM](https://github.com/loootai/looot-crm) [![looot CRM](https://github.com/loootai.png?size=20)](https://github.com/loootai/looot-crm) | [![looot CRM](https://img.shields.io/github/stars/loootai/looot-crm.svg?style=social)](https://github.com/loootai/looot-crm) | Yes |
 
 ## Email marketing
 Alternatives to: [Mailchimp](https://mailchimp.com/), [Sendinblue](https://www.sendinblue.com/)
