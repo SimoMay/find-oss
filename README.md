@@ -37,6 +37,7 @@ Alternatives to: [Xero](https://www.xero.com/)
 |                        [Akaunting](https://akaunting.com/)  [![Akaunting](https://github.com/akaunting.png?size=20)](https://akaunting.com/) | [![Akaunting](https://img.shields.io/github/stars/akaunting/akaunting.svg?style=social)](https://github.com/akaunting/akaunting)                |   Yes   |
 |                         [Crater](https://craterapp.com/)  [![Crater](https://github.com/crater-invoice.png?size=20)](https://craterapp.com/) | [![Crater](https://img.shields.io/github/stars/crater-invoice/crater.svg?style=social)](https://github.com/crater-invoice/crater)               |    -    |
 | [InvoiceNinja](https://www.invoiceninja.com/)  [![InvoiceNinja](https://github.com/invoiceninja.png?size=20)](https://www.invoiceninja.com/) | [![InvoiceNinja](https://img.shields.io/github/stars/invoiceninja/invoiceninja.svg?style=social)](https://github.com/invoiceninja/invoiceninja) |   Yes   |  
+| [OpenBooks](https://openbooks-site.vercel.app/)  [![OpenBooks](https://github.com/braedonsaunders.png?size=20)](https://openbooks-site.vercel.app/) | [![OpenBooks](https://img.shields.io/github/stars/braedonsaunders/openbooks.svg?style=social)](https://github.com/braedonsaunders/openbooks) |   Yes   |
 
 ## Audio space
 Alternatives to: [Clubhouse](https://www.clubhouse.com/), [Twitter Spaces](https://help.twitter.com/en/using-twitter/spaces)
